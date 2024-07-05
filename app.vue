@@ -122,7 +122,7 @@ useHead({
       tagPriority: 0
     },
     ...generateOgTags(head.value.meta),
-    ...generateLangTags(head.value.links),
+    ...generateLangTags(head.value.link),
   ],
 });
 </script>
