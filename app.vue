@@ -9,13 +9,17 @@ useHead({
       rel: 'icon',
       type: 'image/png',
       href: '/favicon.png',
+      tagPriority: 0
     },
   ],
 });
 const { t } = useI18n();
 const config = useRuntimeConfig();
 useSeoMeta({
-  ogTitle: t('seo.home.title'),
+  ogTitle: {
+    content: ('seo.home.title'),
+    tagPriority: 0
+  },
   ogDescription: t('seo.home.description'),
   ogImage: '/logo.png',
   ogImageAlt: 'Propaganda Solutions',
@@ -33,6 +37,7 @@ useSeoMeta({
   charset: 'utf-8',
   viewport: 'width=device-width, initial-scale=1',
 });
+console.log('head', head);
 </script>
 
 <template>
