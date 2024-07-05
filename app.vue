@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 const head = useLocaleHead({
   addDirAttribute: true,
   addSeoAttributes: true,
