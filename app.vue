@@ -12,14 +12,27 @@ useHead({
       tagPriority: 0
     },
   ],
+  meta: [
+    {
+      name: 'viewport',
+      content: 'width=device-width, initial-scale=1',
+      tagPriority: 0
+    },
+    {
+      name: 'charset',
+      content: 'utf-8',
+      tagPriority: 0
+    },
+    {
+      name:'ogTitle',
+      content: t('seo.home.title'),
+      tagPriority: 0
+    }
+  ],
 });
 const { t } = useI18n();
 const config = useRuntimeConfig();
 useSeoMeta({
-  ogTitle: {
-    content: ('seo.home.title'),
-    tagPriority: 0
-  },
   ogDescription: t('seo.home.description'),
   ogImage: '/logo.png',
   ogImageAlt: 'Propaganda Solutions',
@@ -34,8 +47,6 @@ useSeoMeta({
   colorScheme: 'light',
   themeColor: '#faf8f5',
   ogUrl: config.public.baseURL,
-  charset: 'utf-8',
-  viewport: 'width=device-width, initial-scale=1',
 });
 console.log('head', head);
 </script>
