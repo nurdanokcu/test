@@ -1,0 +1,974 @@
+{
+  "seo": {
+    "home": {
+      "title": "Digitale Marketingagentur in Deutschland  - Propaganda Solutions",
+      "description": "Wir sind spezialisiert auf innovatives Webdesign und -entwicklung. Unser Expertenteam zeichnet sich durch SEO-Optimierung aus, um Ihre Online-Präsenz zu steigern. Vertrauen Sie uns für effektive Website-Promotion und Werbung auf Google, Facebook & Instagram."
+    },
+    "about": {
+      "title": "About Propaganda Solutions - Digital Marketing Agency Germany, United Kingdom England",
+      "description": "Discover Propaganda Solutions, an innovative digital marketing agency to offer affordable and effective marketing solutions for businesses of all sizes."
+    },
+    "blog": {
+      "title": "Blog - Propaganda Solutions {'|'} Digital Marketing Insights",
+      "description": "Explore the latest in digital marketing with Propaganda Solutions' blog. Specializing in site design, development, SEO, and effective advertising on Google, Facebook & Instagram. Your UK-based agency for elevated online presence."
+    },
+    "design": {
+      "title": "Design Services - Propaganda Solutions {'|'} Elevate Your Brand with Creative Design",
+      "description": "Propaganda Solutions offers expert design services, including web design, branding, and ads creation. Elevate your brand with our creative and strategic design solutions that captivate and engage your audience."
+    },
+    "development": {
+      "title": "Web Development Services - Propaganda Solutions {'|'} Customized Digital Solutions ",
+      "description": "At Propaganda Solutions, we offer bespoke web development services to create a robust online presence. Specializing in e-commerce platforms, and custom web applications, our team ensures seamless user experience and superior performance."
+    },
+    "digital": {
+      "title": "Digital Marketing Expertise - All Europe, Germany, United Kingdom England",
+      "description": "Propel your business to new heights with Propaganda Solutions' digital marketing services. Specializing in SEM, SEO, PPC, and social media ads, we deliver tailored strategies to maximize your online visibility and engagement."
+    },
+    "educational": {
+      "title": "Educational Content - Enhancing online growth with digital tools",
+      "description": "Dive into a world of learning with Propaganda Solutions' educational content. Discover our innovative digital tools and resources to enhance educational experiences for learners"
+    },
+    "faq": {
+      "title": "FAQ - Propaganda Solutions {'|'} Your Questions Answered",
+      "description": "Find answers to frequently asked questions about digital marketing, services, and strategies at Propaganda Solutions. Get insights into our approach, services, and how we can help elevate your business online."
+    },
+    "mediaArticles": {
+      "title": "Media Articles - Insights & News from the Digital World",
+      "description": "Stay updated with the latest trends, insights, and news in digital marketing through Propaganda Solutions' media articles. Our experts share valuable knowledge and updates to keep you informed in the ever-evolving digital landscape"
+    },
+    "privacyPolicy": {
+      "title": "Privacy Policy - Propaganda Solutions {'|'} Safeguarding Your Data",
+      "description": "Read the Privacy Policy of Propaganda Solutions to understand how we protect and use your personal information. Our commitment to your privacy is paramount, covering data collection, usage, and security measures."
+    },
+    "resources": {
+      "title": "Resources - Propaganda Solutions {'|'} Enhancing Your Digital Knowledge",
+      "description": "Explore a wealth of resources at Propaganda Solutions, including blogs, media articles, and educational content. Gain expert insights, tips, and trends to boost your digital presence and business growth."
+    },
+    "services": {
+      "title": "Services - Propaganda Solutions {'|'} Comprehensive Digital Marketing & Development Solutions",
+      "description": "Discover our full range of services at Propaganda Solutions, offering cutting-edge digital marketing, web design, and development solutions tailored to drive your business success."
+    },
+    "caseStudies": {
+      "aHouse": {
+        "title": "Case Study: A-house Project by Propaganda Solutions {'|'} Transforming Real Estate Online Presence",
+        "description": "Discover how Propaganda Solutions redefined the digital landscape for A-house, a New York-style rental apartment in Copenhagen, through innovative web design, enhanced SEO, and the A-house Availability Widget, leading to increased turnover and improved market visibility."
+      },
+      "cityCampus": {
+        "title": "Case Study:  CityCampus {'|'} Revolutionizing Educational Space",
+        "description": "Discover how Propaganda Solutions enhanced the digital footprint for , fostering an interactive educational environment through strategic web solutions."
+      },
+      "fahrwerk": {
+        "title": "Case Study: Fahrwerk {'|'} Automotive Excellence Online",
+        "description": "Learn how Propaganda Solutions propelled Fahrwerk's online presence, driving brand and service awareness in the automotive sector through digital innovation."
+      },
+      "fahrwerkMarketing": {
+        "title": "Case Study: Fahrwerk Marketing Strategy {'|'} Driving Brand Growth",
+        "description": "Explore the marketing transformation journey of Fahrwerk with Propaganda Solutions, showcasing a tailored approach to automotive digital marketing."
+      },
+      "lilienthal": {
+        "title": "Case Study: Lilienthal Project {'|'} Crafting Real Estate Success",
+        "description": "Propaganda Solutions' case study on Lilienthal, revealing how digital strategy and web development enhanced this real estate project's market presence."
+      },
+      "link": {
+        "title": "Case Study: Link Project {'|'} Connecting Digital and Real Worlds",
+        "description": "See how Propaganda Solutions' innovative strategies for the Link project bridged digital solutions with tangible experiences, enhancing user engagement."
+      },
+      "mybudapester": {
+        "title": "Case Study: MyBudapester {'|'} Luxury Retail in the Digital Age",
+        "description": "Unveil how Propaganda Solutions transformed MyBudapester into a digital luxury retail powerhouse, optimizing online presence and customer experience."
+      },
+      "quadratum": {
+        "title": "Case Study: Quadratum Potsdam {'|'} Real Estate Digital Transformation",
+        "description": "Discover Propaganda Solutions' role in redefining Quadratum Potsdam's digital journey, enhancing its real estate visibility and customer engagement."
+      },
+      "quatsch": {
+        "title": "Case Study: Quatsch {'|'} Innovating Entertainment Online",
+        "description": "Dive into the Quatsch project with Propaganda Solutions, showcasing how digital strategies revolutionized the entertainment and comedy sector."
+      },
+      "regio": {
+        "title": "Case Study: Regio {'|'} Regional Business Digital Evolution",
+        "description": "Learn about Propaganda Solutions' impact on Regio, where strategic digital marketing and web development drove regional business growth."
+      },
+      "sektor": {
+        "title": "Case Study: Sektor {'|'} Leading the Tech Industry Online",
+        "description": "Propaganda Solutions' case study on Sektor, highlighting how innovative web and marketing strategies catalyzed technology sector growth."
+      },
+      "struktur": {
+        "title": "Case Study: Struktur {'|'} Structuring Digital Success",
+        "description": "Discover how Propaganda Solutions crafted Struktur’s online architecture, integrating web design and digital strategies to enhance brand presence."
+      },
+      "wireAndBond": {
+        "title": "Case Study: Wire and Bond {'|'} Electrifying the Finance Sector",
+        "description": "Delve into Wire and Bond’s digital transformation with Propaganda Solutions, enhancing financial service offerings through targeted digital marketing and web development."
+      }
+    }
+  },
+  "pagePath": {
+    "aboutSection": {
+      "reviews": "uber-uns-bewertungen",
+      "team": "uber-uns-team",
+      "history": "uber-uns-geschichte"
+    },
+    "services": "/de/dienstleistungen",
+    "development": "/de/entwicklung",
+    "design": "design",
+    "faq": "/de/haufig-gestellte-fragen",
+    "caseStudy": {
+      "sektor": "/de/fallstudie/sektor"
+    }
+  },
+  "home": {
+    "header": {
+      "title": "Wir entwickeln und implementieren ROI-positive digitale Lösungen für unsere Kunden. Was ist deine Superpower?",
+      "card": "Von der Durchführung digitaler Kampagnen bis hin zu der umfassenden Digitalen Business Transformation, wir sind ihr partner in der entwicklung des erfolges",
+      "ellipseText": "menschliche Kreativität",
+      "ai": "+ KI",
+      "teamText_1": "Gutes Marketing kommt durch",
+      "teamText_2": "Gute Beziehungen",
+      "letsTalk": "Lass uns reden",
+      "scrollPathId": "startseite-haupt"
+    },
+    "reviews": {
+      "meetClients_1": "WAS UNSERE",
+      "meetClients_2": "KUNDEN SAGEN",
+      "linkPath": "/de/uber-uns",
+      "linkPathId": "uber-uns-bewertungen"
+    },
+    "service": {
+      "we": "wir",
+      "weOffer": "Als digitale Full-Service-Agentur brennen wir darauf, den Erfolg unserer Kunden auf neue Höhen zu führen. Unser Expertenteam widmet sich voll und ganz dem Verständnis Ihrer spezifischen Geschäftsbedürfnisse und entwickelt unermüdlich maßgeschneiderte, wirkungsvolle digitale Strategien, die genau passen. Wir setzen auf den Aufbau langfristiger Partnerschaften und legen größten Wert darauf, dass Sie in Ihrem Bereich herausragen. Die Entscheidung für uns als Ihren Partner im digitalen Marketing bedeutet, dass Sie sich nicht nur für einen Dienstleister entscheiden, sondern für einen engagierten Verbündeten, der Ihre Leidenschaft und Ihren Ehrgeiz teilt. Ihr Wachstum ist unser gemeinsamer Erfolg. Wir sind begeistert von der Aussicht, gemeinsam mit Ihnen diese digitale Reise zu gehen",
+      "click": "Klicken, um mehr zu erfahren"
+    },
+    "blog": {
+      "title": "BLOG",
+      "text": "Mit ungebrochener Leidenschaft entwickeln wir maßgeschneiderte digitale Lösungen, die das Geschäft unserer Kunden stärken.",
+      "showMore": "ZEIG MEHR",
+      "message": "NEUE NACHRICHT VON:",
+      "team": "PS TEAM",
+      "insight": "Teilen bedeutet Fürsorge",
+      "blog": "MEHR BLOGS"
+    },
+    "whyUs": {
+      "title": "Warum mit uns arbeiten?",
+      "chatText": "Lassen Sie uns ein Gespräch führen und schauen, ob wir Ihnen helfen können, Ihr Marketing zu verbessern"
+    }
+  },
+  "common": {
+    "partners": "Partner von",
+    "scroll": "Scrollen Sie für mehr",
+    "chat": "jetzt plaudern",
+    "chatClass": "chat-de",
+    "headerApproach": "unser Ansatz",
+    "caseStudies": "FALLSTUDIEN"
+  },
+  "navbar": {
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen"
+  },
+  "about": {
+    "header": {
+      "title": "Über uns",
+      "subtitle": "Erweitern Sie Ihr Geschäft mit unseren erschwinglichen, KI-gesteuerten digitalen Marketing Lösungen",
+      "text": "Bei PS sind wir leidenschaftlich daran interessiert, die Zukunft des digitalen Marketings zu gestalten und es für alle zugänglich zu machen. Unsere Mission ist es, unser Agenturmodell zu perfektionieren, das kreative menschliche Erfahrungen mit der Kraft der KI auf Technologieplattformen kombiniert. Wir glauben, dass dieser Ansatz die Art und Weise, wie Unternehmen das digitale Marketing angehen, revolutioniert und es ihnen ermöglicht, ihre Ziele effektiver zu erreichen. Es ist diese Leidenschaft und Hingabe zu unserer Mission, die uns jeden Tag aus dem Bett treibt und jede Entscheidung leitet, die wir treffen.",
+      "missionTitle": "unsere aufgabe",
+      "reviewCase": "Aktuelle Fallstudie",
+      "reviewTitle": "Sektor: Wohnungsauswahl",
+      "reviewText": "Ich hatte das Vergnügen, mit Propaganda Solutions für die Marketingkampagne meines Unternehmens zu arbeiten.Marketing-Kampagne meines Unternehmens zu arbeiten und ich könnte mit den Ergebnissen nicht zufriedener sein.",
+      "scrollPathId": "uber-uns-bewertungen"
+    },
+    "review": {
+      "title": "Stolz auf die zusammenarbeiten",
+      "subtitle": "Wir bieten folgende Dienstleistungen:",
+      "showMore": "ZEIG MEHR",
+      "socialReview_3": "Propaganda hat unsere Organisation bei mehreren Projekten sowohl in kreativer kreativen und technischen Kapazitäten unterstützt. Ein Beispiel war, dass sie erfolgreich eine Website mit einem CI für unser Unternehmen entwickelt. Propaganda Solutions ist eine Gruppe von Profis, die sich auf Ergebnisse konzentrieren und sie machen den Prozess einfach.",
+      "designReview_6": "PS hat uns bei der Erstellung einer Website und der Einrichtung unserer sozialen Medien geholfen. Das PS und alle Mitglieder haben alles getan, um uns und das Projekt zu unterstützen."
+    },
+    "team": {
+      "title": "Treffen Sie das Team"
+    },
+    "visionMission": {
+      "titleMobile": "Unsere Ansichten",
+      "titleDesktop": "Vision, Mission, Werte",
+      "visionTitle": "unsere Vision",
+      "missionTitle": "Unser Auftrag"
+    },
+    "value": {
+      "title": "unsere werte",
+      "text": "Wir möchten, dass unsere Werte bedeutungsvoll sind und dass jeder im Team die Unternehmenswerte lebt und atmet. Echte Werte zeigen sich durch das Verhalten und die Fähigkeiten, die von den Mitarbeitern eines Unternehmens demonstriert werden, und es sind diese Verhaltensweisen und Eigenschaften, die von den Kollegen geschätzt werden, wodurch eine dynamische Unternehmenskultur entsteht, die den Einzelnen und das Unternehmen als Ganzes vorantreibt.",
+      "valueText": "Wir schätzen diese Eigenschaften bei unseren Mitarbeitern:",
+      "valueTitle_1": "Leidenschaft",
+      "valueText_1": "Wir legen Wert auf die Arbeit, die wir für Propaganda Solutions leisten, und wir inspirieren andere dazu, großartige Arbeit zu leisten.",
+      "valueTitle_2": "Kommunikation",
+      "valueText_2": "Wir hören gut zu. Wir streben danach zu verstehen. Wir stellen Fragen. Wir drücken uns mündlich und schriftlich gewandt aus. Wir sind immer auf Meetings vorbereitet und führen sie professionell durch.",
+      "valueTitle_3": "Innovation",
+      "valueText_3": "Wir investieren Zeit, um über bessere Wege zur Erledigung unserer Aufgaben nachzudenken. Wir integrieren das Denken in unsere Arbeit und demonstrieren Spitzenwissen in dem, was wir tun.",
+      "valueTitle_4": "Ehrlichkeit",
+      "valueText_4": "Wir sprechen die Wahrheit. Wenn wir etwas über jemanden zu sagen haben, dann sagen wir es ihm direkt ins Gesicht und nicht hinter seinem Rücken. Wir sind direkt und können zugeben, wenn wir einen Fehler gemacht haben.",
+      "valueTitle_5": "Impact",
+      "valueText_5": "Wir zeigen konstante und starke Leistung. Wir sind stolz auf unsere Arbeit. Wir gehen die extra Meile, um hochwertige Arbeit zu liefern.",
+      "valueTitle_6": "Detail",
+      "valueText_6": "Wir treffen gute Entscheidungen. Wir denken strategisch. Wir berücksichtigen den Kontext eines Problems und identifizieren echte Lösungen."
+    },
+    "history": {
+      "title": "Geschichte",
+      "historyText_1": "Im Jahr 2018 fühlte sich Thorsten Nolte durch die hohen Kosten und die mangelnde Zugänglichkeit traditioneller Werbeagenturen frustriert. Er erkannte das Potenzial der KI, menschliche Erfahrungen zu verbessern und Zielgruppen zu engagieren.",
+      "historyText_2": "Thorsten gründete Propaganda Solutions, eine digitale Agentur, die menschliche Kreativität und Technologie verbindet, um Unternehmen zum Erfolg zu verhelfen. Trotz seines Namens ist das Team lebensfroh, kreativ und technikaffin und produziert visuell beeindruckende und KI-optimierte Kampagnen, die für jeden zugänglich sind.",
+      "historyText_3": "Propaganda Solutions konzentriert sich auf zwei Ziele: die Entwicklung kreativer menschlicher Erfahrungen, die mit dem Publikum in Verbindung treten, und die Kombination menschlicher Kreativität mit von KI getriebenen Einsichten.",
+      "historyText_4": "Das zweite Ziel ist es, die Eintrittsbarrieren für kleinere Unternehmen zu beseitigen. Thorsten und sein Team erkennen, dass viele kleinere Unternehmen von traditionellen Agenturlösungen preislich ausgeschlossen sind. Indem sie hochwertige Kampagnen zu einem erschwinglichen Preis anbieten, zielen sie darauf ab, dies zu ändern.",
+      "historyText_5": "Propaganda Solutions machte sich einen Namen und beeindruckte Unternehmen aller Größen mit ihrer Qualität und kreativen Kampagnen.",
+      "historyText_6": "Heute ist Propaganda Solutions eine wachsende digitale Agentur mit einem ausgezeichneten Ruf. Sie bleiben ihren ursprünglichen Zielen verpflichtet und setzen weiterhin die Grenzen dessen, was im Marketing möglich ist, neu. Die Zukunft hält spannende Möglichkeiten für dieses innovative und lebensfrohe Team bereit.",
+      "now": "jetzt"
+    },
+    "whatwedo": {
+      "title": "Erfahren Sie mehr darüber, was wir für Sie tun können",
+      "text": "Wir bieten eine Reihe von Marketinglösungen, die Ihrem Unternehmen helfen, in der der heutigen digitalen Landschaft. Unser Expertenteam ist darauf spezialisiert maßgeschneiderte Strategien und Taktiken, die zu Ergebnissen führen und Erwartungen übertreffen.",
+      "btnText": "Alle DIENSTLEISTUNGEN"
+    },
+    "navigation": {
+      "review": "BEWERTUNGEN",
+      "team": "TEAM",
+      "history": "GESCHICHTE"
+    },
+    "location": {
+      "title": "Unsere Standorte",
+      "germany": "Deutschland",
+      "germany-address": "Pappelallee 78/79",
+      "germany-address_2": "10437, Berlin",
+      "english": "England",
+      "english-address": "Sheltonstraße 71-75",
+      "english-address_2": "London"
+    }
+  },
+  "services": {
+    "heading": {
+      "title": "Dienstleistungen",
+      "subtitle": "Sind Sie bereit, Ihr nächstes Projekt zu starten?",
+      "visionTitle": "Unsere Vision",
+      "review": "Aktuelle Zeugnisse",
+      "reviewComment": "Propaganda hat unsere Organisation bei mehreren Projekten sowohl in kreativer kreativen und technischen Kapazitäten unterstützt. Ein Beispiel war, dass sie erfolgreich eine Website mit einem CI für unser Unternehmen entwickelt. Propaganda Solutions ist eine Gruppe von Fachleuten, die sich auf Ergebnisse konzentrieren und sie machen den Prozess einfach ",
+      "scrollPathId": "dienstleistungen-haupt",
+      "learnMore": "Erfahren Sie mehr",
+      "scheduleMeeting": "Vereinbaren Sie ein Meeting",
+      "keyFeatures": "Hauptmerkmale:"
+    },
+    "navigation": {
+      "digital": "Digitales Marketing",
+      "development": "Entwicklung",
+      "design": "Design",
+      "scroll": "Scrollen zu"
+    }
+  },
+  "design": {
+    "heading": {
+      "title": "Entzünden Sie",
+      "subtitle1": "Ihre Marke",
+      "subtitle": "mit atemberaubenden Design-Lösungen",
+      "text": "Willkommen bei Propaganda Solutions, wo wir Kreativität und Strategie kombinieren, um außergewöhnliche Designs zu entwerfen, die Ihr Publikum fesseln. Unser Design Dienstleistungen umfassen eine Reihe von spezialisierten Bereichen, einschließlich Web Design, Markendesign und Anzeigendesign. Wir verstehen die Macht der visuellen Kommunikation und zielen darauf ab, überzeugende Designs zu entwerfen, die einen bleibenden Eindruck bei Ihrer Zielgruppe hinterlassen. Lassen Sie uns in die Details eintauchen",
+      "scrollPathId": "Design-Haupt"
+    },
+    "contactForm": {
+      "title": "Kontaktieren Sie uns",
+      "subtitle": "Bitte füllen Sie das Kontaktformular mit Ihrer Anfrage aus",
+      "text": "Bei Propaganda Solutions arbeiten wir mit Leidenschaft an der Entwicklung von Designs, die Ihre Marke aufwertet und einen bleibenden Eindruck hinterlässt.",
+      "text_1": "Nehmen Sie noch heute Kontakt mit uns auf, um zu besprechen, wie unsere Design-Services Ihnen helfen können, Ihre Ihre Marketingziele zu erreichen",
+      "successMessage": "Danke, dass Sie uns kontaktiert haben ! Wir werden uns so schnell wie möglich bei Ihnen melden.",
+      "sendRequest": "Anfrage senden",
+      "conditions": "Ich stimme dem zu",
+      "conditionsLink": "Bedingungen & Konditionen",
+      "conditionsPath": "datenschutzbestimmungen",
+      "conditions_1": "der Propaganda Solutions",
+      "errorMessage_1": " Leider ist beim Senden Ihrer Nachricht ein Problem aufgetreten.",
+      "errorMessage_2": "Bitte versuchen Sie es später noch einmal oder kontaktieren Sie uns unter",
+      "name": "Name ist erforderlich",
+      "email": "E-Mail ist erforderlich",
+      "emailInvalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+      "comment": "Kommentar ist erforderlich",
+      "terms": "Bitte stimmen Sie den Geschäftsbedingungen zu",
+      "placeholderName": "Ihr Name",
+      "placeholderEmail": "E-Mail-Adresse",
+      "placeholderComment": "Kommentar",
+      "alreadySubscribed": "Es sieht so aus, als ob Sie unseren Newsletter bereits erhalten. Wir freuen uns, Sie bei uns zu haben!",
+      "successNewsletter": "Vielen Dank für Ihr Abonnement unseres Newsletters!"
+    }
+  },
+  "sem": {
+    "contactus": {
+      "text_2": "Wenn Sie bereit sind, Ihre Online-Präsenz auf die nächste Stufe zu heben, füllen Sie bitte das Kontakt-Formular mit Ihrer Anfrage",
+      "text_3": "Bitte füllen Sie das Kontaktformular mit Ihrer Anfrage aus"
+    }
+  },
+  "social": {
+    "contactus": {
+      "text_3": "Bitte füllen Sie das Kontaktformular mit Ihrer Anfrage aus."
+    }
+  },
+  "development": {
+    "heading": {
+      "title": "Entwicklungsdienste",
+      "subtitle": "Verstärkung Ihrer digitalen Präsenz",
+      "text": "Willkommen bei den Entwicklungsdiensten von Propaganda Solutions! In der heutigen digitalen Landschaft, eine starke Online-Präsenz ist entscheidend für den Erfolg Erfolg. Unser erfahrenes Team von Entwicklern ist hier, um Ihnen zu helfen, erhöhen Ihre Marke zu verbessern und ein nahtloses Benutzererlebnis zu schaffen. Ob Sie ein Content Management System (CMS) oder maßgeschneiderte Entwicklungslösungen benötigen, wir wir haben das Know-how, um Ihre Vision zum Leben zu erwecken.",
+      "scrollPathId": "entwicklung-haupt"
+    },
+    "contactus": {
+      "text": "Denken Sie daran, bei Propaganda Solutions, wir glauben, dass gut gestaltete Entwicklungslösungen die Macht haben, Unternehmen zu verändern und Publikum zu fesseln.",
+      "text_1": "Wir freuen uns darauf, mehr über Ihr Unternehmen zu erfahren und Ihnen dabei zu helfen Ihre Ziele zu erreichen. Lassen Sie uns Ihr Partner bei der Erstellung bemerkenswerter digitaler Erlebnisse.",
+      "text_2": "Wenn Sie bereit sind, Ihre digitale Präsenz auf die nächste Stufe zu heben, füllen Sie bitte das Kontakt-Formular mit Ihrer Anfrage"
+    }
+  },
+  "digital": {
+    "header": {
+      "title": "Digitales Marketing",
+      "subtitle": "Maximieren Sie Ihre Online-Sichtbarkeit und fördern Sie Ihr Geschäft mit SEM",
+      "text": "Willkommen bei Propaganda Solutions, Ihrem vertrauenswürdigen Partner für ganzheitlichen digitalen Erfolg. In der heutigen äußerst wettbewerbsintensiven digitalen Landschaft ist es entscheidend, die Kraft des ganzheitlichen digitalen Marketings zu nutzen, um sicherzustellen, dass Ihr Unternehmen sein volles Potenzial entfaltet. Unsere Strategie umfasst nicht nur Suchmaschinenmarketing (SEM), sondern integriert auch Social Media Marketing, Content-Marketing, E-Mail-Marketing und Online-Reputationsmanagement, um eine umfassende Online-Präsenz aufzubauen. Von der strategischen Planung bis zur taktischen Ausführung kombinieren wir das Beste aus Pay-Per-Click (PPC)-Werbung und Suchmaschinenoptimierung (SEO) mit kreativen und engagierenden Inhalten sowie gezielten Social Media Kampagnen, um maximale Sichtbarkeit zu erreichen und qualifizierten Traffic auf Ihre Website zu lenken.",
+      "scrollPathId": "digitales-haupt"
+    },
+    "content": {
+      "services": "UNSERE DIENSTLEISTUNGEN:",
+      "facts": "Verbesserungsfakten",
+      "about": "Über den Dienst",
+      "strategy": "Strategien"
+    },
+    "contactForm": {
+      "title": "Preis anfragen"
+    }
+  },
+  "case_studies": {
+    "sektor": {
+      "heading": {
+        "title": "Webseitendesign & -entwicklung",
+        "service": "Dienstleistung:",
+        "webdesign": "Webdesign",
+        "industry": "Branche:",
+        "realestate": "Immobilien",
+        "goal": "Ziel:",
+        "goal_text": "Verweildauer auf der Webseite erhöhen",
+        "scrollPathId": "Sektor-Haupt",
+        "text": "Unser Ziel bei diesem Projekt war es, eine Webseite von Grund auf zu entwerfen und zu entwickeln, die die Dienstleistungen unserer Kunden präsentiert. Das Hauptziel der neuen Webseite war es, eine hohe Anzahl kosteneffektiver Leads zu generieren. Die Herausforderung bestand also darin, eine Online-Präsenz zu schaffen, die das Zielpublikum beeindruckt und die Leadgenerierung erleichtert."
+      },
+      "how-we-did-it": {
+        "approach-text-1": "Forschung",
+        "approach-text-2": "Konzepte",
+        "approach-text-3": "Designsystem",
+        "approach-text-4": "UI Desktop",
+        "approach-text-5": "Mobile Anpassung",
+        "approach-text-6": "Datenanalytik",
+        "approach-text-7": "WordPress",
+        "title": "Wie haben wir das gemacht?",
+        "text": "Die Bato-Gruppe ist einer unserer langjährigen Kunden. In diesem speziellen Projekt wurden wir beauftragt, die Webseite für Sektor in Berlin zu gestalten und zu entwickeln, um deren Dienstleistungen zu präsentieren und kosteneffektive Leads für ihr Geschäft zu gewinnen. Sektor bietet eine Sammlung verschiedener Gebäude, die sich auf Büroräume in Berlin konzentrieren. Das Projekt bietet Immobilien an verschiedenen Standorten der Stadt.",
+        "text_1": "Wir schufen ein immersives Website-Erlebnis unter Verwendung von WordPress als kostengünstiges, aber vielseitiges CMS. Unsere UX/UI-Philosophie war",
+        "text_2": "„Progressive Offenlegung“, „Reduzierung der Komplexität“ und „Lineare Führung“",
+        "text_3": "wobei wir Ablenkungen auf ein Minimum reduzierten und uns jeweils auf ein oder zwei Aktionen konzentrierten. Diese Philosophie beseitigt Verwirrung und Ablenkung und zieht die Nutzer in die Erzählung, was zu einem starken Handlungsaufruf führt. Schlüsselelemente wie „Kontaktieren Sie uns“ wurden immer hervorgehoben, um sofortige Lead-Generierung zu ermöglichen.",
+        "text_4": "Der Aufbau der Webseite war jedoch erst der Anfang – um zu bestimmen, wie effektiv unser Design und unsere Entwicklung waren, verfolgten wir deren Leistung mit Google Analytics und passten Elemente basierend auf den erhaltenen Datensignalen an. Bei PS stellen wir sicher, dass diese Einstellungen bei all unseren Webseitenentwicklungen korrekt konfiguriert sind, um von Anfang an wertvolle Einblicke in das Benutzerverhalten zu gewinnen."
+      },
+      "got-it": {
+        "title": "Was haben wir daraus gewonnen?",
+        "numbertext_1": "neue Nutzer über einen",
+        "numbertext_2": "Monat",
+        "numbertext_3": "mehr qualifizierter",
+        "numbertext_4": "Verkehr",
+        "numbertext_5": "Zeit auf der verbracht",
+        "numbertext_6": "Webseite",
+        "text": "Attraktive Webseite",
+        "text_1": "& Empfehlungen"
+      },
+      "client-think": {
+        "title": "Was dachte der Kunde?",
+        "text": "Ich könnte nicht zufriedener sein mit dem außergewöhnlichen Service, den diese Marketingagentur bereitgestellt hat. Ihr innovativer Ansatz zum digitalen Marketing, der kreative menschliche Erfahrungen mit KI-Technologie kombiniert, hat unser Geschäft wirklich transformiert.",
+        "budget": "Budget",
+        "quality": "Qualität",
+        "schedule": "Zeitplan",
+        "collaboration": "Zusammenarbeit"
+      },
+      "navigation": {
+        "approach": "Ansatz",
+        "result": "Ergebnisse",
+        "feedback": "Feedback"
+      }
+    },
+    "regio": {
+      "heading": {
+        "title": "Digitale Marketingkampagne",
+        "marketing": "Digitales Marketing",
+        "stairlifts": "Treppenlifte",
+        "goal_text": "Leadgenerierung steigern",
+        "scrollPathId": "regio-main",
+        "text": "REGIO ist ein Treppenliftunternehmen in Deutschland. Mit einem REGIO-Treppenlift können Menschen sicher und bequem Treppen in ihren Häusern auf- und absteigen. wir spenden 250€ zur Unterstützung der Helfer in der Corona-Krise"
+      },
+      "how-we-did-it": {
+        "text-title": "Herausforderung:",
+        "text": "Eine Werbekampagne für ein Treppenliftunternehmen zu erstellen, kann eine Herausforderung sein, besonders wenn die Zielgruppe aus älteren Internetnutzern in einer schwierigen Lebensphase besteht.",
+        "text_1": "Wenn jemand plötzlich einen Teil seiner Bewegungsfreiheit aufgrund von Mobilitätsproblemen verliert, ist dies oft ein Schock. Eine wirkungsvolle, leadgenerierende Kampagne mit Sensibilität und Zusicherung war erforderlich."
+      },
+      "solve-it": {
+        "title": "Wie haben wir es gelöst:",
+        "text": "Um diese Herausforderung zu bewältigen, entwarf unser Team wirkungsvolle, aber themensensible Anzeigen und Anzeigentexte, und wir implementierten eine umfassende digitale Marketingstrategie, die SEO, PPC und Social-Media-Management umfasste.",
+        "text_1": "Im Bereich SEO führten wir eine Keyword-Recherche durch und optimierten die Website-Inhalte, um in den Suchmaschinenergebnisseiten (SERPs) für relevante Begriffe höher zu ranken und sicherzustellen, dass die Website von der Zielgruppe leicht gefunden wird.",
+        "text_2": "Auf der PPC-Seite erstellten und verwalteten wir gezielte Anzeigenkampagnen auf Google, die es uns ermöglichten, die Zielgruppe zur richtigen Zeit am richtigen Ort zu erreichen, wenn sie aktiv nach Lösungen für ihre Mobilitätsherausforderungen suchten.",
+        "text_3": "Im Bereich Social Media entwickelten wir eine Inhaltsstrategie, die sowohl informativ als auch einfühlsam war, und gestalteten und veröffentlichten kontinuierlich hochwertige, ansprechende Inhalte, die bei der Zielgruppe Anklang fanden."
+      },
+      "get-from-it": {
+        "text": "Die Ergebnisse waren beeindruckend, da das Unternehmen einen signifikanten Anstieg des Website-Traffics, der Leads und der Verkäufe sowie eine Verbesserung des Markenansehens und des Rufs sah. Hier sind einige Highlights:"
+      },
+      "navigation": {
+        "challenge": "Herausforderung",
+        "solution": "Lösung",
+        "impact": "Wirkung"
+      }
+    },
+    "citycampus": {
+      "heading": {
+        "title": "Erstellung von Werbekampagnen",
+        "marketing": "Digitales Marketing",
+        "stairlifts": "Immobilien",
+        "goal_text": "Erhöhung der Anfragen für Führungen, Prospekt-Downloads und Kontaktaufnahmen",
+        "scrollPathId": "Stadtcampus-main",
+        "text": "City Campus ist ein kommerzieller Bürokomplex in Berlin, entwickelt von einem multinationalen Immobilienunternehmen. Dieses Projekt gehört zu den größten und am besten ausgestatteten in der Stadt und bietet bequeme Annehmlichkeiten wie Restaurants, Fitnessstudios und andere Dienstleistungen, um den Alltag der Mieter zu erleichtern. Der Campus sucht nach Geschäften, die seine weiten Flächen nutzen und entdecken möchten, was er zu bieten hat."
+      },
+      "how-we-did-it": {
+        "text": "Die Erstellung von Werbekampagnen für ein Immobilienunternehmen kann eine Herausforderung sein.",
+        "text_1": " Es ist wichtig, Anzeigen zu erstellen, die nicht nur potenzielle Mieter anziehen, sondern auch deren Aufmerksamkeit fesseln und Vertrauen fördern.",
+        "text_2": "Anzeigen müssen auf die Bedürfnisse potenzieller Mieter zugeschnitten sein, indem sie deren Bedenken bezüglich Budget, Standort, Ausstattung und anderen Faktoren ansprechen, die für eine erfolgreiche Anmietung wichtig sind. Die Botschaft muss sofort beim Anzeigen der Anzeige übermittelt werden.",
+        "text_3": "Anzeigen sollten auch die einzigartigen Vorteile des City Campus hervorheben und visuell ansprechend und fesselnd sein.",
+        "text_4": "Anzeigen müssen auf mehreren Plattformen beworben werden, um das breiteste mögliche Publikum zu erreichen und dabei kosteneffektiv zu bleiben, aufgrund der wettbewerbsintensiven Natur des Immobilienmarktes."
+      },
+      "solve-it": {
+        "text": "Mit dem Ziel, die Dienstleistungen unseres Kunden zu bewerben und mehr Leads zu generieren, haben wir den gesamten Prozess übernommen, von der Strategie über das Design, Texten bis hin zur Aktivierung auf verschiedenen digitalen Plattformen. Wir haben sichergestellt, dass jedes Detail perfekt war und alle Inhalte den höchsten Standards entsprachen, um Interesse an den Dienstleistungen unseres Kunden zu wecken.",
+        "text_1": "Wir haben jeden Schritt des Prozesses sorgfältig durchgeführt, von der Ideenfindung bis zum erfolgreichen Start des Produkts - und dabei sichergestellt, dass es unseren hohen Standards entspricht. Zu den Aktivitäten gehörten E-Mail, SMM-Management auf Instagram, Facebook und LinkedIn. Google-Suche & Display-Anzeigen und Meta-Anzeigenkampagnen, die speziell auf die einzigartigen Aspekte des Geschäfts unserer Kunden zugeschnitten waren.",
+        "text_2": " Außerdem ermöglichten uns unsere umfassenden Analyseeinstellungen, die Leistung dieser Kampagnen in Echtzeit zu verfolgen und schnell Änderungen vorzunehmen, unterstützt durch unsere KI-Tools.",
+        "text_3": "Verbesserte Markensichtbarkeit auf Google und sozialen Netzwerken",
+        "text_4": "Erhöhte Sichtbarkeit",
+        "text_5": "Gewinnung neuer Kunden",
+        "text_6": "Präsenz an erster Stelle bei Google bei der Suche nach dem vorgeschlagenen Service"
+      }
+    },
+    "fahrwerk": {
+      "heading": {
+        "title": "B2B-Website-Entwicklung",
+        "marketing": "Webseitenentwicklung",
+        "stairlifts": "Transport",
+        "goal_text": "Entwicklung einer responsiven Website",
+        "scrollPathId": "fahrwerk-main",
+        "text": "Entwicklung einer neuen, responsiven Website sowie Einrichtung und Management von Social-Media-Kanälen. Die Website wurde mit WordPress erstellt und von Beginn an für Suchmaschinen optimiert."
+      },
+      "how-we-did-it": {
+        "text": "Die vorherige alte Website war auf der Wix-Plattform, langsam und ohne speziellen Inhalt. Sie war nicht für SEO optimiert.",
+        "text_1": "Unsere Aufgabe war es, eine neue, schnelle, responsive Website zu entwerfen und zu entwickeln. Es war auch unsere Aufgabe, die Social-Media-Kanäle aufzubauen und zu verwalten."
+      },
+      "solve-it": {
+        "text": "Entwicklung der Website auf WordPress",
+        "text_1": "100% responsiv machen",
+        "text_2": "SEO von Anfang an integrieren",
+        "text_3": "Bilder optimieren",
+        "text_4": "Neues UX-Design mit optionalen Buchungsanfrageformularen erstellen",
+        "text_5": "Wählen Sie ein gutes Hosting, um eine schnelle Ladezeit und Betrieb der Website zu gewährleisten",
+        "text_6": "Neues Benutzeroberflächendesign erstellen",
+        "text_7": "Social-Media-Kreativarbeit vorbereiten"
+      },
+      "get-from-it": {
+        "text": "Die Ergebnisse waren beeindruckend, da das Unternehmen einen signifikanten Anstieg des Website-Traffics, der Leads und der Verkäufe sowie eine Verbesserung des Markenansehens und des Rufs sah. Hier sind einige Highlights:"
+      }
+    },
+    "a-house": {
+      "heading": {
+        "title": "Implementierung des Verfügbarkeits-Widgets",
+        "scrollPathId": "ahouse-main",
+        "text": "A-House im Bereich Islands Brygge in Kopenhagen ist Heimat von 195 New-York-Stil Mietwohnungen. Jede Wohnung hat ihren eigenen einzigartigen Grundriss, der es den Mietern ermöglicht, ihren eigenen einzigartigen Lebensraum zu schaffen und ihre Persönlichkeiten durch das Design auszudrücken."
+      },
+      "how-we-did-it": {
+        "text": "Unsere Aufgabe war es, eine Website zu entwickeln, die Details über das Gebäude wie Beschreibungen, Fotos und Kontaktinformationen enthält.",
+        "text_1": "Die Website sollte interaktive Elemente enthalten, wie benutzerdefinierte Formulare und Galerien sowie Blogbeiträge.",
+        "text_2": "Die Entwicklung einer ansprechenden Website mit Datenakquise im Mittelpunkt war die Hauptaufgabe, die wir lösen sollten."
+      },
+      "solve-it": {
+        "text": "Die Entwicklung eines Content-Management-Systems für A-House beinhaltete die Gestaltung einer benutzerfreundlichen Schnittstelle, die Integration von Datenspeicher- und Abrufsystemen, die Schaffung von Wegen für Benutzer, um auf Inhalte zuzugreifen, die Entwicklung von Content-Management-Tools wie Suchfunktionen und Inhaltsbearbeitungstools, die Erstellung von Sicherheitsebenen, die sicherstellen, dass nur autorisiertes Personal auf Informationen zugreifen kann, die Integration von Analytics, um das Engagement der Benutzer zu verfolgen und mehr.",
+        "text_1": "Im Mittelpunkt unserer Lösung stand die Entwicklung des A-House Verfügbarkeits-Widgets, einer interaktiven Funktion, die es potenziellen Mietern ermöglicht, Wohnungen nach Standort, Preis und Merkmalen zu filtern, was es für potenzielle Mieter attraktiv und einfach macht, das perfekte Haus zu finden.",
+        "text_2": "Entwicklung einer Linkbuilding-Strategie",
+        "text_3": "SEO-Audit",
+        "text_4": "Entwicklung einer Content-Strategie",
+        "text_5": "Wettbewerbsanalyse",
+        "text_6": "Unsere angebotenen Dienstleistungen"
+      },
+      "get-from-it": {
+        "title_1": "von 0 auf 100+ pro Tag",
+        "text_1": "Erhöhter Such-SEO-Verkehr und brachte mehr als 100 Keywords in die Top 10 von Google",
+        "title_2": "mehr als doppelt",
+        "text_2": "Steigerung der Effektivität der Werbekampagne",
+        "text_3": "Umsatzwachstum 5xLinkprofil-Aufbau:",
+        "text_4": "Wettbewerbsanalyse",
+        "text_5": "Internet-Strategie für die Website-Entwicklung",
+        "text_6": "Prognose des Werbebudgets",
+        "text_7": "Kontrolle der Indizierung in Google",
+        "text_8": "Verständnis der Schwachstellen auf der Website und was zuerst gelöst werden sollte"
+      }
+    },
+    "fahrwerkdigital": {
+      "heading": {
+        "title": "Digitale Marketingkampagnen",
+        "marketing": "Digitales Marketing",
+        "stairlifts": "Fahrzeuge",
+        "goal_text": "Steigerung der aktiven Nutzer und Leads",
+        "scrollPathId": "fahrwerkdigital-main",
+        "text": "Fahrwerk ist ein erstklassiger Limousinen-Shuttle-Service mit jahrelanger Erfahrung, einem umfangreichen Netzwerk und einer großen Auswahl an Fahrzeugen. Das Unternehmen ist darauf ausgerichtet, Personen mit ihren notwendigen Transportbedürfnissen zu verbinden und zuverlässige, effiziente Dienstleistungen zu bieten."
+      },
+      "how-we-did-it": {
+        "text": "Bewusstsein für das Geschäftsangebot schaffen und kosteneffektiven Verkauf vorantreiben"
+      },
+      "solve-it": {
+        "text": "Wir haben sinnvolle, sensible Anzeigen und Anzeigentexte entwickelt und eine umfassende digitale Marketingstrategie erstellt, die SEO und Social Media-Handling umfasste. Bei der SEO haben wir eine Keyword-Analyse durchgeführt und das Website-Material modifiziert, um die Rankings in den SERPs für entsprechende Begriffe zu erhöhen, wodurch die Website leicht zugänglich für unsere Zielgruppe wurde.",
+        "text_1": "Im Bereich Social Media haben wir eine sowohl konstruktive als auch verständnisvolle Content-Strategie entwickelt und kontinuierlich überzeugendes Material veröffentlicht, das die Zielgruppe anspricht."
+      }
+    },
+    "lilienthal": {
+      "heading": {
+        "title": "SEO und bezahlte Suche",
+        "marketing": "SEO und bezahlte Suche",
+        "stairlifts": "Immobilien",
+        "goal_text": "Kommunikation der Marke und Generierung von Leads",
+        "scrollPathId": "lilienthal-main",
+        "text": "Die INCITY GROUP ist ein multidisziplinäres Immobilienunternehmen mit Sitz in Frankfurt am Main und Berlin Schönefeld. Ihr Fokus liegt auf gewerblichen Immobilien. Sie investieren speziell in die langfristige Entwicklung eines nachhaltigen Portfolios. Drei Punkte sind ihnen wichtig: ein zukunftssicherer Standort, eine solide Grundqualität und die langfristige Werthaltigkeit der Immobilien."
+      },
+      "how-we-did-it": {
+        "text": "Kommunikation der Marke und Generierung von Leads, die potenzielle Mieter werden könnten."
+      },
+      "solve-it": {
+        "text": "Wir entwickelten eine PPC- und SEO-Strategie, indem wir die Konkurrenz, den Standort und die aktuelle Website analysierten.",
+        "text_1": "Außerdem entwickelten wir eine robuste SEM-Strategie. Durch die Implementierung dieser Strategie erhielten wir hochwertige Leads, die in langfristige Mietverträge der Geschäftsräumlichkeiten umgewandelt wurden.Zusätzlich führten wir eine Wettbewerbsanalyse durch, die es uns ermöglichte, den Markt besser zu verstehen.",
+        "text_2": "Darüber hinaus wurde eine Content-Strategie entwickelt, die auf die Interessen Ihrer Nutzer abgestimmt ist, sowie eine Strategie zur Steigerung des Markenbewusstseins, die mehrere Medienkanäle abdeckt. Schließlich wurde auch eine Linkbuilding-Strategie erstellt."
+      }
+    },
+    "struktur": {
+      "heading": {
+        "title": "B2B Website Design & Entwicklung",
+        "marketing": "Website-Design",
+        "stairlifts": "Beratung",
+        "goal_text": "Eine beeindruckende Website erstellen",
+        "scrollPathId": "struktur-main",
+        "text": "Struktur ist einer unserer langjährigen Kunden. Es handelt sich um Dienstleistungen im Bereich Immobilienberatung, die sich auf die wichtigsten Anliegen und Chancen der Kunden konzentrieren: Strategie, Organisation, Transformation, Betrieb, Vermietung, Markenbildung, Kommunikation, Veranstaltungen, Technologie und Nachhaltigkeit im Immobiliensektor in Berlin und im Ausland."
+      },
+      "how-we-did-it": {
+        "text": "Das Ziel des Projekts war es, eine beeindruckende Website von Grund auf zu erstellen, die das Angebot des Kunden auf attraktive Weise repräsentiert und mehr Leads generiert.",
+        "text_1": "Wir haben besonderen Wert darauf gelegt, eine Website zu gestalten, die den idealen Verbraucher fesseln und mehr Leads für den Kunden generieren würde."
+      },
+      "solve-it": {
+        "text": "Wir haben eine Strategie der „Progressiven Offenlegung“, der „Reduzierung der Komplexität“ und der „Linearen Führung“ implementiert, während wir ein immersives Website-Erlebnis mit WordPress als kostengünstigem, aber vielseitigem Content-Management-System erstellt haben.",
+        "text_1": "Unser Ziel war es, Unordnung zu reduzieren und sich auf eine oder zwei Aktionen gleichzeitig zu konzentrieren, um Verwirrung und Ablenkung zu verringern und zu einer starken Handlungsaufforderung zu führen. Wir haben den Schwerpunkt auf Schlüsselelemente wie „Kontaktieren Sie uns“ gelegt, um sofort Leads zu generieren, wobei jede Seite für die Sichtbarkeit in Suchmaschinen optimiert wurde.",
+        "text_2": "Aber der Aufbau allein reichte nicht aus - wir haben die Wirksamkeit der Website mit Google Analytics verfolgt und das Design entsprechend den Datensignalen angepasst. Bei PS stellen wir sicher, dass diese Analytics-Einstellungen bei allen Website-Erstellungen korrekt eingerichtet sind, um ein besseres Verständnis des Nutzerverhaltens zu erlangen."
+      }
+    },
+    "link": {
+      "heading": {
+        "title": "PPC und SEO",
+        "marketing": "PPC und SEO",
+        "stairlifts": "Bürovermietung",
+        "goal_text": "Leadgenerierung",
+        "scrollPathId": "link-main",
+        "text": "Link ist ein sechsstöckiges Gebäude in Friedrichshain. Die Lage von Link ist perfekt für Mieter, die eine Vielzahl an Ess- und Unterhaltungsmöglichkeiten in der Nähe wünschen. Das Gebäude wurde 1994 erbaut und renoviert, um ein modernes Büro in einem dynamischen Bereich anzubieten. Link bietet seinen Mietern nicht nur die Nähe zu beliebten Gebieten, sondern auch eine ruhige Arbeitsumgebung mit allen Annehmlichkeiten, die für den Alltag im Büro notwendig sind."
+      },
+      "how-we-did-it": {
+        "text": "Die Herausforderung bestand darin, eine klare Markenkommunikation zu etablieren und Leads zu generieren, die das Potenzial haben, zu potenziellen Mietern zu werden."
+      },
+      "solve-it": {
+        "text": "Wir entwickelten eine umfassende PPC- und SEO-Strategie nach Analyse des Wettbewerbs, des Standorts und der bestehenden Website. Zusätzlich implementierten wir eine robuste SEM-Strategie, die außergewöhnliche Ergebnisse lieferte.",
+        "text_1": "Als Ergebnis dieser Bemühungen gelang es uns, hochwertige Leads anzuziehen, die letztendlich in langfristige Mietverträge für die Geschäftsräumlichkeiten unserer Kunden umgewandelt wurden. Darüber hinaus lieferte unsere Wettbewerbsanalyse wertvolle Einblicke in die Marktsituation und ermöglichte es uns, fundierte Entscheidungen zu treffen.",
+        "text_2": "Darüber hinaus entwickelten wir eine benutzerzentrierte Content-Strategie, die mit den Interessen Ihrer Zielgruppe in Einklang steht, sowie einen Plan zur Steigerung des Markenbewusstseins, der verschiedene Medienplattformen umfasst. Schließlich entwarfen wir eine effektive Linkbuilding-Strategie, um die Online-Präsenz und Sichtbarkeit Ihrer Marke weiter zu erhöhen."
+      }
+    },
+    "quadratum": {
+      "heading": {
+        "stairlifts": "Wissenschaft",
+        "goal_text": "Kommunikationsstrategie",
+        "scrollPathId": "quadratum-main",
+        "text": "QUADRATUM POTSDAM ist ein zukunftsweisendes Ziel, das die Vernetzung von Individuen, Forschung, Technologie und Wirtschaft fördert. Es repräsentiert einen frischen und zukunftsorientierten Ort, an dem die Welten von Arbeit und Leben in modernen Laboren und Büros aufeinandertreffen."
+      },
+      "how-we-did-it": {
+        "text": "Die Herausforderung besteht darin, eine kohärente Markenkommunikationsstrategie effektiv zu etablieren und gleichzeitig hochwertige Leads zu generieren, die das Potenzial haben, zu potenziellen Mietern zu werden. Dies erfordert einen strategischen Ansatz, der gezielte Marketingbemühungen, überzeugende Botschaften und eine wirkungsvolle Markendarstellung über verschiedene Kanäle umfasst."
+      },
+      "solve-it": {
+        "text": "Nach Analyse des Wettbewerbs, des Standorts und der vorhandenen Website haben wir eine umfassende PPC- und SEO-Strategie entwickelt. Darüber hinaus haben wir eine robuste SEM-Strategie implementiert, die außergewöhnliche Ergebnisse erzielt hat.",
+        "text_1": "Als Ergebnis dieser Bemühungen haben wir erfolgreich hochwertige Leads angezogen, die letztendlich in langfristige Mietverträge für die Geschäftsräume unserer Kunden umgewandelt wurden. Darüber hinaus hat unsere Wettbewerbsanalyse wertvolle Einblicke in die Marktlandschaft geliefert, die es uns ermöglicht haben, fundierte Entscheidungen zu treffen.",
+        "text_2": "Darüber hinaus haben wir eine nutzerzentrierte Content-Strategie entwickelt, die mit den Interessen Ihrer Zielgruppe in Einklang steht, während wir gleichzeitig einen Markenbewusstseins-Wachstumsplan entwickelt haben, der verschiedene Medienplattformen umfasst. Schließlich haben wir eine effektive Backlink-Strategie entwickelt, um die Online-Präsenz und Sichtbarkeit Ihrer Marke weiter zu erhöhen."
+      }
+    },
+    "mybudapester": {
+      "heading": {
+        "title": "E-Commerce-Social-Media",
+        "marketing": "SMM",
+        "stairlifts": "Luxusmode",
+        "goal_text": "Design aller Bild- und Videoinhalte",
+        "scrollPathId": "mybudapester-main",
+        "text": "Entwicklung, Gestaltung und Umsetzung von Social-Media-Performance-Kampagnen und das Management von Facebook, Instagram, TikTok, Pinterest und LinkedIn auf Social-Media-Plattformen. Das Ziel all dieser Aktivitäten ist eine positive Rendite auf den Verkauf von Luxusschuhen und Bekleidung."
+      },
+      "how-we-did-it": {
+        "text": "Entwicklung und Umsetzung der Social-Media-Strategie für mybudapester.com",
+        "text_1": "Design aller Bild- und Videoinhalte",
+        "text_2": "Entwicklung und Durchführung von Social-Media-Werbekampagnen",
+        "text_3": "Berichterstattung, Analyse und Optimierung sämtlicher Aktivitäten zur Erzielung einer positiven Rendite"
+      },
+      "solve-it": {
+        "text": "Wir haben eine Social-Media-Strategie entwickelt und umgesetzt und optimieren diese kontinuierlich auf verschiedenen Social-Media-Kanälen. Wir führen Social-Media-Kampagnen durch und verwalten die täglichen Social-Media-Kanäle, um sowohl die Auswirkungen in den sozialen Medien zu steigern als auch einen positiven ROI im Verkauf zu erzielen."
+      }
+    },
+    "wirebond": {
+      "heading": {
+        "stairlifts": "Büro mieten",
+        "goal_text": "Das Interesse potenzieller Mieter wecken",
+        "scrollPathId": "wirebond-main",
+        "text": "Hierbei handelt es sich um zwei Gebäude im Herzen von Berlin-Mitte, nur wenige Meter vom berühmten Checkpoint Charlie entfernt. Die Eigenschaften sind aufgrund ihrer zentralen Lage, der Geschichte der Gebäude und der herausragenden architektonischen Stile sehr einzigartig. Wire und Bond sind in einer facettenreichen Gegend mit exklusiven Geschäften, Cafés, Hotels, Restaurants und kulturellen Wahrzeichen gut vernetzt. Die Fassade von Wire ist eine Nachbildung des Farnese-Palastes in Rom, entworfen von Michelangelo, und Bond verfügt über eine mehrfarbige Fassade und gestufte Dachlinien."
+      },
+      "how-we-did-it": {
+        "text": "Die Intensität des Marktes stellt eine große Herausforderung dar, da es zahlreiche Immobilien gibt, die auf digitalen Plattformen um Aufmerksamkeit konkurrieren. Hervorstechen und das Interesse potenzieller Mieter wecken erfordert eine starke und umfassende digitale Marketingstrategie. Dies umfasst die effektive Nutzung verschiedener Kanäle wie SEO, Content-Marketing und Social-Media-Werbung.",
+        "text_1": "Eine weitere Herausforderung besteht darin, die Immobilie und ihre Merkmale genau darzustellen. Um potenzielle Mieter anzuziehen, ist es entscheidend, hochwertige Fotos, virtuelle Rundgänge und detaillierte Beschreibungen bereitzustellen, die den Raum und seine Annehmlichkeiten klar präsentieren."
+      },
+      "solve-it": {
+        "text": "Um die Herausforderungen zu bewältigen, denen sich gewerbliche Immobilienunternehmen beim Vermarkten ihrer verfügbaren Büroräume auf digitalen Plattformen gegenübersehen, haben wir eine umfassende und vielfältige digitale Marketingstrategie entwickelt. Unser Ansatz umfasste die folgenden Schlüsselkomponenten, die zu einer effektiven Differenzierung und zur Generierung hochwertiger Leads führten:",
+        "text_1": "Priorisierung hochwertiger visueller Elemente: Wir erkannten die entscheidende Rolle ansprechender visueller Elemente bei der genauen Präsentation der Immobilie und ihrer einzigartigen Merkmale. Durch Investitionen in hochwertige Fotografie und immersive virtuelle Rundgänge haben wir potenziellen Mietern eine klare und ansprechende Darstellung der verfügbaren Räume und ihrer Annehmlichkeiten geboten. Dieser Ansatz steigerte nicht nur die Anzahl der Leads, sondern zog auch Personen an, die tatsächlich am Objekt interessiert waren.",
+        "text_2": "Strategische Suchmaschinenoptimierung (SEO): Wir konzentrierten uns darauf, Website-Inhalte, Metatags und Bilder zur relevanten Keyword-Optimierung zu nutzen. Diese proaktive SEO-Strategie verbesserte die Sichtbarkeit der Immobilie in den Suchmaschinen-Rankings erheblich. Dadurch zogen wir eine größere Anzahl qualifizierter Leads an, die aktiv nach Büroräumen suchten und somit die Gesamteffektivität unserer Marketingbemühungen steigerten.",
+        "text_3": "Nutzung von Social-Media-Plattformen: Wir nutzten die Kraft beliebter sozialer Medien wie LinkedIn, Facebook und Instagram, um unsere Reichweite zu erweitern und ein breiteres Publikum anzusprechen. Durch regelmäßige Updates und gezielte Anzeigen steigerten wir die Markenexposition und leiteten erfolgreich relevante Besucher auf die Website der Immobilie weiter. Diese erhöhte Sichtbarkeit und Interaktion führte zu einer größeren Anzahl potenzieller Mieter, die sich die verfügbaren Büroräume ansahen.",
+        "text_4": "Ausschöpfung des Potenzials von bezahlter Suche: Durch eine strategische und fokussierte Keyword-Strategie haben wir unsere bezahlten Suchkampagnen optimiert. Durch sorgfältige Auswahl relevanter Keywords und Erstellung überzeugender Anzeigentexte haben wir unsere Botschaft präzise an hochqualifizierte Interessenten gerichtet, die aktiv nach Büroräumen suchen. Zusätzlich nutzten wir Retargeting-Techniken, um mit Personen in Kontakt zu treten, die zuvor Interesse gezeigt hatten, und erhöhten so die Wahrscheinlichkeit einer erfolgreichen Konvertierung."
+      }
+    },
+    "quatsch": {
+      "heading": {
+        "title": "Design & Entwicklung E-Commerce Website",
+        "marketing": "Design & Entwicklung",
+        "stairlifts": "Comedy Club",
+        "goal_text": "Design aller Bild- und Videoinhalte",
+        "scrollPathId": "quatsch-main",
+        "text": "Der Quatsch Comedy Club benötigte eine neue Website, da die alte Website veraltet war, nicht den Erwartungen der Kunden entsprach und auf einer veralteten Entwicklungsinfrastruktur basierte. Unsere Aufgabe bestand darin, die Website von Grund auf neu zu gestalten und eine Website zu entwickeln, die den neuesten Branchenstandards entspricht. Die Website musste von Anfang an über grundlegende SEO-Grundlagen verfügen."
+      },
+      "how-we-did-it": {
+        "text": "Design und Entwicklung der E-Commerce-Website für den Quatsch Comedy Club",
+        "text_1": "API-Integration in das Eventim-Buchungssystem",
+        "text_2": "API-Integration in ein Drittanbieter-Gateway",
+        "text_3": "Mobile-First Responsive Design"
+      },
+      "solve-it": {
+        "text": "Gestaltung und Entwicklung der E-Commerce-Website für den Quatsch Comedy Club",
+        "text_1": "API-Integration in das Eventim-Buchungssystem",
+        "text_2": "API-Integration in ein Drittanbieter-Gateway",
+        "text_3": "Design mit Schwerpunkt auf Mobilgeräten und responsiv",
+        "text_4": "Tagmodus und Clubmodus",
+        "text_5": "Website-Suche",
+        "text_6": "SEO",
+        "text_7": "Mehrere Standorte mit Geotargeting"
+      }
+    }
+  },
+  "theblog": {
+    "heading": {
+      "title": "Unsere neuesten Einblicke durchstöbern",
+      "text": "Willkommen in unserem Blog, wo Marketing auf Kreativität und Innovation trifft. Tauchen Sie ein in die Welt des Designs und der Entwicklung mit Expertenwissen, Tipps und Trends, die Ihre Marke auf Hochtouren bringen werden. Entdecken Sie, wie unsere Agentur Ihre digitale Präsenz heute transformieren kann.",
+      "email": "Geben Sie Ihre E-Mail ein",
+      "subscribe": "Abonnieren"
+    },
+    "sortBy": "Sortieren nach:",
+    "sortOption0": "Wähle eine aus",
+    "sortOption1": "Nach Name",
+    "sortOption2": "Vom Ältesten zum Neuesten",
+    "sortOption3": "Vom Neuesten zum Ältesten",
+    "readmore": "Weiterlesen",
+    "readnext": "LESEN SIE WEITER",
+    "previous": "Vorherige",
+    "next": "Nächste",
+    "back": "Zurück zum Blog",
+    "viewAll": "Alle anzeigen"
+  },
+  "terms": {
+    "header": "Datenschutzrichtlinie",
+    "header_text": "Ihre Privatsphäre ist uns besonders wichtig",
+    "address_title": "Propaganda Solutions GmbH befindet sich unter:",
+    "address": "Pappelallee 78/79 10437, Berlin",
+    "contact_title": "Sie können uns hier kontaktieren:",
+    "intro_1": "Es ist die Politik von Propaganda Solutions GmbH, Ihre Privatsphäre in Bezug auf alle Informationen zu respektieren, die wir beim Betrieb unserer Website erfassen können. Diese Datenschutzrichtlinie gilt für www.propaganda-solutions.com (im Folgenden als „uns“, „wir“ oder „www.propaganda-solutions.com“ bezeichnet). Wir respektieren Ihre Privatsphäre und sind bestrebt, die personenbezogenen Informationen, die Sie uns möglicherweise über die Website zur Verfügung stellen, zu schützen. Wir haben diese Datenschutzrichtlinie („Datenschutzrichtlinie“) verabschiedet, um zu erklären, welche Informationen auf unserer Website erfasst werden können, wie wir diese Informationen verwenden und unter welchen Umständen wir die Informationen an Dritte weitergeben können. Diese Datenschutzrichtlinie gilt nur für Informationen, die wir über die Website erfassen, und gilt nicht für unsere Erhebung von Informationen aus anderen Quellen.",
+    "intro_2": "Diese Datenschutzrichtlinie, zusammen mit den auf unserer Website veröffentlichten Geschäftsbedingungen, legt die allgemeinen Regeln und Richtlinien für die Nutzung unserer Website fest. Je nach Ihren Aktivitäten beim Besuch unserer Website kann es erforderlich sein, zusätzlichen Geschäftsbedingungen zuzustimmen.",
+    "visitors_title": "Website-Besucher",
+    "visitors_text_1": "Wie die meisten Website-Betreiber sammelt Propaganda Solutions GmbH nicht personenbezogene Informationen, die Webbrowser und Server in der Regel zur Verfügung stellen, wie den Browsertyp, die Spracheinstellung, die verweisende Seite und das Datum und die Uhrzeit jeder Anforderung eines Besuchers. Der Zweck von Propaganda Solutions GmbH bei der Erfassung nicht personenbezogener Informationen besteht darin, besser zu verstehen, wie die Besucher von Propaganda Solutions GmbH die Website nutzen. Von Zeit zu Zeit kann Propaganda Solutions GmbH nicht personenbezogene Informationen aggregiert veröffentlichen, z. B. durch Veröffentlichung eines Berichts über Trends in der Nutzung seiner Website.",
+    "visitors_text_2": "Propaganda Solutions GmbH sammelt auch potenziell personenbezogene Informationen wie IP-Adressen für eingeloggte Benutzer und Benutzer, die Kommentare zu Blog-Beiträgen auf www.propaganda-solutions.com hinterlassen. Propaganda Solutions GmbH gibt IP-Adressen von eingeloggten Benutzern und Kommentatoren nur unter denselben Umständen bekannt, unter denen sie personenbezogene Informationen verwendet und bekannt gibt, wie unten beschrieben.",
+    "visitors_text_3": "Erfassung personenbezogener Informationen: Einige Besucher der Websites von Propaganda Solutions GmbH wählen Interaktionen mit Propaganda Solutions GmbH, die die Erfassung personenbezogener Informationen erfordern. Die Menge und Art der von Propaganda Solutions GmbH erfassten Informationen hängt von der Art der Interaktion ab. Zum Beispiel bitten wir Besucher, die sich für einen Blog unter",
+    "visitors_text_4": "anmelden, um einen Benutzernamen und eine E-Mail-Adresse bereitzustellen.",
+    "security_title": "Sicherheit",
+    "security_text": "Die Sicherheit Ihrer persönlichen Informationen ist uns wichtig, aber bitte beachten Sie, dass keine Methode der Übertragung über das Internet oder der elektronischen Speicherung zu 100 % sicher ist. Obwohl wir uns bemühen, kommerziell akzeptable Mittel zum Schutz Ihrer persönlichen Informationen zu verwenden, können wir deren absolute Sicherheit nicht garantieren.",
+    "advertisements_title": "Werbung",
+    "advertisements_text": "Anzeigen, die auf unserer Website erscheinen, können von Werbepartnern an Benutzer geliefert werden, die möglicherweise Cookies setzen. Diese Cookies ermöglichen es dem Anzeigenserver, Ihren Computer jedes Mal zu erkennen, wenn er Ihnen eine Online-Anzeige sendet, um Informationen über Sie oder andere, die Ihren Computer nutzen, zu sammeln. Diese Informationen ermöglichen es Werbenetzwerken unter anderem, gezielte Anzeigen auszuliefern, von denen sie glauben, dass sie für Sie am interessantesten sind. Diese Datenschutzrichtlinie gilt für die Verwendung von Cookies durch Propaganda Solutions GmbH und gilt nicht für die Verwendung von Cookies durch Werbetreibende.",
+    "links_title": "Links zu externen Websites",
+    "links_text_1": "Unser Service kann Links zu externen Websites enthalten, die nicht von uns betrieben werden. Wenn Sie auf einen Link zu einer Website eines Dritten klicken, werden Sie auf die Website dieses Dritten weitergeleitet. Wir empfehlen Ihnen dringend, die Datenschutzrichtlinie und die Geschäftsbedingungen jeder Website zu überprüfen, die Sie besuchen.",
+    "links_text_2": "Wir haben keine Kontrolle über die Inhalte, Datenschutzrichtlinien oder Praktiken von Websites, Produkten oder Diensten von Dritten und übernehmen keine Verantwortung dafür.",
+    "links_text_3": "Google AdWords für Remarketing",
+    "links_text_4": "Verwendet die Remarketing-Dienste, um auf Websites von Drittanbietern (einschließlich Google) für frühere Besucher unserer Website zu werben. Dies könnte bedeuten, dass wir für frühere Besucher werben, die eine Aufgabe auf unserer Website nicht abgeschlossen haben, zum Beispiel die Verwendung des Kontaktformulars, um eine Anfrage zu stellen. Dies könnte in Form einer Anzeige auf der Google-Suchergebnisseite oder einer Website im Google Display Network erfolgen. Drittanbieter, einschließlich Google, verwenden Cookies, um Anzeigen basierend auf den früheren Besuchen einer Person zu schalten. Natürlich werden alle gesammelten Daten gemäß unserer eigenen Datenschutzrichtlinie und der Datenschutzrichtlinie von Google verwendet. Sie können Ihre Einstellungen dafür, wie Google Ihnen Anzeigen zeigt, auf der Google Ad Preferences-Seite festlegen und bei Bedarf über Cookie-Einstellungen oder dauerhaft über ein Browser-Plugin die interessenbasierte Werbung deaktivieren.",
+    "protection_title": "Schutz bestimmter personenbezogener Daten",
+    "protection_text_1": "Propaganda Solutions GmbH gibt potenziell personenbezogene und personenbezogene Informationen nur an diejenigen seiner Mitarbeiter, Auftragnehmer und verbundenen Organisationen weiter, die (i) diese Informationen benötigen, um sie im Auftrag von Propaganda Solutions GmbH zu verarbeiten oder Dienstleistungen auf der Website von Propaganda Solutions GmbH bereitzustellen, und (ii) sich verpflichtet haben, sie nicht an andere weiterzugeben. Einige dieser Mitarbeiter, Auftragnehmer und verbundenen Organisationen können sich außerhalb Ihres Heimatlandes befinden. Durch die Nutzung der Website von Propaganda Solutions GmbH stimmen Sie der Übertragung solcher Informationen an sie zu. Propaganda Solutions GmbH wird potenziell personenbezogene und personenbezogene Informationen nicht vermieten oder verkaufen. Abgesehen von seinen Mitarbeitern, Auftragnehmern und verbundenen Organisationen, wie oben beschrieben, gibt Propaganda Solutions GmbH potenziell personenbezogene und personenbezogene Informationen nur in Antwort auf eine Vorladung, eine Gerichtsentscheidung oder eine andere behördliche Anfrage oder wenn Propaganda Solutions GmbH in gutem Glauben davon ausgeht, dass die Offenlegung vernünftigerweise erforderlich ist, um das Eigentum oder die Rechte von Propaganda Solutions GmbH, Dritten oder der Öffentlichkeit im Allgemeinen zu schützen. Wenn Sie ein registrierter Benutzer von https://propaganda-solutions.com sind und Ihre E-Mail-Adresse angegeben haben, kann Propaganda Solutions GmbH Ihnen gelegentlich eine E-Mail senden, um Sie über neue Funktionen zu informieren, Ihr Feedback einzuholen oder Sie einfach über die aktuellen Entwicklungen bei Propaganda Solutions GmbH und unseren Produkten auf dem Laufenden zu halten. Wir verwenden in erster Linie unseren Blog, um diese Art von Informationen zu kommunizieren, daher erwarten wir, diese Art von E-Mails auf ein Minimum zu beschränken.",
+    "protection_text_2": "Wenn Sie uns eine Anfrage senden (zum Beispiel per Support-E-Mail oder über eine unserer Feedback-Mechanismen), behalten wir uns das Recht vor, sie zu veröffentlichen, um uns bei der Klärung oder Beantwortung Ihrer Anfrage zu helfen oder um anderen Benutzern Unterstützung zu bieten. Propaganda Solutions GmbH ergreift alle vernünftigerweise notwendigen Maßnahmen, um unbefugten Zugriff, unbefugte Nutzung, Änderung oder Zerstörung von potenziell personenbezogenen und personenbezogenen Informationen zu verhindern.",
+    "aggregated_title": "Aggregierte Statistiken",
+    "aggregated_text_1": "Propaganda Solutions GmbH kann Statistiken zum Verhalten von Besuchern auf seiner Website sammeln.",
+    "aggregated_text_2": "Propaganda Solutions GmbH kann diese Informationen öffentlich anzeigen oder anderen zur Verfügung stellen. Propaganda Solutions GmbH gibt jedoch Ihre persönlichen Informationen nicht preis.",
+    "affiliate_title": "Partner-Offenlegung",
+    "affiliate_text": "Diese Website verwendet Partnerlinks und erhält eine Provision für bestimmte Links. Dies beeinflusst nicht Ihre Einkäufe oder den Preis, den Sie möglicherweise zahlen.",
+    "cookies_title": "Cookies",
+    "cookies_text_1": "Um Ihre Online-Erfahrung zu bereichern und zu perfektionieren, verwendet Propaganda Solutions GmbH \"Cookies\", ähnliche Technologien und Dienste von Dritten, um personalisierte Inhalte anzuzeigen, passende Werbung anzuzeigen und Ihre Einstellungen auf Ihrem Computer zu speichern.",
+    "cookies_text_2": "Ein Cookie ist eine Zeichenfolge von Informationen, die eine Website auf dem Computer eines Besuchers speichert und die der Browser des Besuchers der Website bei jeder Rückkehr zur Verfügung stellt. Propaganda Solutions GmbH verwendet Cookies, um Besucher zu identifizieren und zu verfolgen, deren Nutzung von http//:www.propaganda-solutiomns.com und deren Website-Zugriffseinstellungen. Besucher von Propaganda Solutions GmbH, die keine Cookies auf ihren Computern platzieren möchten, sollten ihre Browser so einstellen, dass Cookies abgelehnt werden, bevor sie die Websites von Propaganda Solutions GmbH verwenden. Dies kann jedoch dazu führen, dass bestimmte Funktionen der Websites von Propaganda Solutions GmbH ohne Cookies nicht ordnungsgemäß funktionieren.",
+    "cookies_subtitle_1": "Cookies von Dritten",
+    "cookies_text_3": "Diese Website könnte zu Drittanbieter-Werbetreibenden verlinken, die als eigenständige Datenverantwortliche handeln und Cookies verwenden können, um die Wirksamkeit von Anzeigen zu messen und Werbeinhalte zu personalisieren. Informationen, die von Drittanbieter-Werbetreibenden gesammelt werden können, umfassen Daten wie Geolokalisierungsdaten (abgeleitet von der IP-Adresse) oder, mit Ihrer vorherigen Zustimmung, Kontaktdaten wie E-Mail-Adressen, wenn diese über diese Website gesammelt würden.",
+    "cookies_subtitle_2": "Web-Beacons und Pixel",
+    "cookies_text_4": "Diese Website enthält Web-Beacons (auch als \"Pixel-Tags\" bezeichnet). Ein Web-Beacon ist ein oft transparentes grafisches Bild, normalerweise nicht größer als 1 Pixel x 1 Pixel, das auf einer Website oder in einer E-Mail platziert wird, um das Online-Verhalten des Benutzers zu überwachen, der die Website besucht oder die E-Mail sendet. Web-Beacons werden von Drittanbieter-Technologien verwendet, auf dieser Website von [\"Adobe Analytics\"/\"Omniture Analytics\"/\"Omniture Publish\"] bereitgestellt von Adobe Systems Inc., San Jose, Kalifornien, Vereinigte Staaten, um die Aktivitäten der Besucher auf unserer Website zu überwachen. Es ermöglicht, zu verfolgen, welcher Computer auf eine bestimmte Website zugegriffen hat, wann und von wo (Land/Stadt-Ebene).",
+    "tracking_title": "Tracking und Analyse",
+    "tracking_text_1": "Propaganda Solutions GmbH verwendet zur kontinuierlichen Optimierung ihrer Marketingkommunikation die Analyse-Software \"Google Analytics\" von Google LLC, Mountain View, Kalifornien, Vereinigte Staaten. Sie ermöglicht die Verfolgung des Online-Verhaltens in Bezug auf Zeit, geografischen Standort und Nutzung dieser Website. Diese Informationen werden über Web-Beacons und/oder Cookies gesammelt. Die über Web-Beacons und/oder Cookies gewonnenen Informationen sind anonym und werden nicht mit personenbezogenen Daten verknüpft. Alle für diese Analyse erforderlichen Informationen werden auf Servern in den Vereinigten Staaten von Amerika gespeichert. Propaganda Solutions GmbH teilt diese Informationen nicht mit Dritten für deren unabhängige Verwendung. Die über Beacons oder Cookies generierten Informationen über Ihre Nutzung der Website (einschließlich Ihrer IP-Adresse) werden an Google übertragen und auf Servern in den Vereinigten Staaten gespeichert. Bitte beachten Sie, dass auf dieser Website der Google Analytics-Code durch \"anonymize IP\" ergänzt wird, um eine anonymisierte Erfassung von IP-Adressen (sogenanntes IP-Masking) sicherzustellen. Google wird daher das letzte Oktett der IP-Adresse für Mitgliedstaaten der Europäischen Union sowie für andere Vertragsparteien des Abkommens über den Europäischen Wirtschaftsraum kürzen/anonymisieren. Nur in Ausnahmefällen wird die vollständige IP-Adresse an Google-Server in den USA gesendet und dort gekürzt. Im Auftrag von uns wird Google diese Informationen verwenden, um Ihre Nutzung der Website zu bewerten, Berichte über die Aktivitäten auf der Website für uns als Website-Betreiber zu erstellen und andere Dienste in Bezug auf die Aktivitäten auf der Website und die Internetnutzung für uns bereitzustellen. Google wird Ihre IP-Adresse nicht mit anderen von Google gespeicherten Daten in Verbindung bringen. Sie können die Verwendung von Cookies ablehnen, indem Sie die entsprechenden Einstellungen in Ihrem Browser auswählen. Beachten Sie jedoch, dass Sie in diesem Fall möglicherweise die volle Funktionalität dieser Website nicht nutzen können. Darüber hinaus können Sie die Datenerfassung und -nutzung durch Google (Cookies und IP-Adresse) verhindern, indem Sie das unter",
+    "tracking_text_1_additional": "verfügbare Browser-Plug-in herunterladen und installieren.",
+    "tracking_text_2": "Sie können die Verwendung von Google Analytics ablehnen, indem Sie auf den folgenden Link klicken. Ein Opt-Out-Cookie wird auf dem Computer gesetzt, das die zukünftige Datenerfassung verhindert, wenn Sie diese Website besuchen: Google Analytics deaktivieren.",
+    "tracking_text_3": "Weitere Informationen zu den Nutzungsbedingungen und zum Datenschutz finden Sie unter",
+    "tracking_text_3_additional": "oder unter",
+    "tracking_text_4": "Aktivieren und Deaktivieren von Cookies und ähnlichen Technologien",
+    "tracking_text_5": "Sie sollten die Möglichkeit haben, alle Cookies auf allen von Ihnen besuchten Websites zu akzeptieren oder abzulehnen, indem Sie die Einstellungen in Ihrem Internetbrowser ändern. Bitte beachten Sie die Anweisungen Ihres Browsers, um mehr darüber zu erfahren, wie Sie Ihre Browsereinstellungen ändern oder Cookies löschen können. Beachten Sie jedoch, dass bestimmte Funktionen und die volle Funktionalität dieser Website nicht verfügbar sein werden, sobald Cookies deaktiviert sind.",
+    "tracking_text_6": "Wenn Sie Drittanbieter-Cookies blockieren möchten (oder später Ihre Meinung ändern möchten), können Sie die entsprechenden Einstellungen auf der folgenden Website vornehmen:",
+    "data_title": "Datenschutz",
+    "data_text_1": "Propaganda Solutions GmbH respektiert die Privatsphäre jeder Person, die die Website besucht. Dieser Abschnitt der Datenschutzrichtlinie erläutert die Informationen, die Propaganda Solutions GmbH erfassen und speichern kann, sowie deren Verwendung. Bitte lesen Sie das Folgende sorgfältig durch, um unsere Ansichten und Praktiken in Bezug auf Ihre persönlichen Daten und deren Behandlung zu verstehen.",
+    "data_text_2": "Für den Datenschutz ist der Datenverantwortliche Propaganda Solutions GmbH, ein Unternehmen, das nach den Gesetzen Deutschlands registriert ist und seinen Sitz in der Reinhardtstraße 48, 10117, Berlin, Deutschland, hat. Bei Fragen zum Schutz Ihrer persönlichen Daten oder Ihren Rechten gemäß dem geltenden Datenschutzrecht wenden Sie sich bitte an unsere Datenschutzstelle unter",
+    "data_subtitle": "Informationen, die wir von Ihnen sammeln können",
+    "data_text_3": "Wir können die folgenden Daten von Ihnen sammeln und verarbeiten:",
+    "data_text_4": "Informationen, die Sie durch das Ausfüllen von Formularen auf unserer Website bereitstellen. Dies umfasst Informationen, die zum Zeitpunkt der Registrierung zur Nutzung unserer Website, zur Abonnement unseres Dienstes, zum Veröffentlichen von Material oder zur Anforderung weiterer Dienstleistungen bereitgestellt werden. Wir können Sie auch um Informationen bitten, wenn Sie ein Problem mit unserer Website melden. Wir werden solche Informationen zur Erfüllung unserer Verpflichtungen im Zusammenhang mit dem durch eine solche Registrierung abgeschlossenen Vertrag oder zur Bereitstellung der von Ihnen abonnierten oder angeforderten Dienste verwenden. Unsere Legitimation nach geltendem Datenschutzrecht wird daher Art. 6 Abs. 1 lit. (a) oder (b) DSGVO sein. Wir können Ihre persönlichen Daten für einen Aufbewahrungszeitraum von 10 Jahren aufbewahren, um rechtliche Risiken und Ansprüche abzudecken.",
+    "data_text_5": "Wenn Sie uns kontaktieren, können wir eine Aufzeichnung dieser Korrespondenz für die zur Beantwortung Ihrer Anfrage und 90 Tage danach erforderliche Zeit aufbewahren. Unsere Legitimation nach geltendem Datenschutzrecht ist Art. 6 Abs. 1 lit. (f) DSGVO; unser berechtigtes Interesse an der Aufbewahrung solcher Aufzeichnungen besteht in unserer Fähigkeit, spätere Fragen, die Sie möglicherweise haben, besser beantworten zu können. Wir halten fest, dass unsere legitimen Interessen im Einklang mit dem Gesetz und den rechtlichen Rechten und Freiheiten unserer Benutzer stehen.",
+    "data_text_6": "Wir können Sie auch auffordern, Umfragen auszufüllen, die wir zu Forschungszwecken verwenden, die jedoch in der Regel auf anonymer Basis und anderweitig aufgrund Ihrer Zustimmung gemäß Art. 6 Abs. 1 lit. (a) durchgeführt werden.",
+    "ip_address_title": "IP-Adressen und Cookies",
+    "ip_address_text_1": "In einigen Fällen können wir Informationen über Sie sammeln, die nicht persönlich identifizierbar sind. Beispiele für diese Art von Informationen sind Ihre IP-Adresse, bei der die letzten vier Zeichen gekürzt sind, der Typ des Internetbrowsers, den Sie verwenden, das Betriebssystem Ihres Computers und der Domainname der Website, von der aus Sie zu unserer Website oder Anzeige verlinkt haben. Dies sind statistische Daten über das Browsing-Verhalten und -Muster unserer Benutzer und identifizieren keine einzelnen Personen.",
+    "ip_address_text_2": "Wenn Sie die Website anzeigen, können wir einige Informationen auf Ihrem Computer speichern. Diese Informationen werden in Form eines \"Cookies\" oder einer ähnlichen Datei vorliegen und uns in vielerlei Hinsicht helfen. Um mehr über die auf dieser Website verwendeten Cookie-Typen zu erfahren, lesen Sie bitte die vorherigen Absätze.",
+    "personal_title": "Persönliche Daten und die Verwendung Ihrer persönlichen Daten",
+    "personal_text_1": "Wir werden keine persönlich identifizierbaren Informationen über Sie (d. h. Ihren Namen, Ihre Adresse, Ihre Telefonnummer oder Ihre E-Mail-Adresse) (\"persönliche Daten\") sammeln, es sei denn, Sie stellen sie uns freiwillig zur Verfügung. Wenn Sie nicht möchten, dass Ihre persönlichen Daten erfasst werden, senden Sie sie bitte nicht ein.",
+    "personal_text_2": "Wenn Sie bereits persönliche Daten übermittelt haben und möchten, dass diese aus unseren Aufzeichnungen entfernt werden, kontaktieren Sie uns bitte unter der untenstehenden E-Mail-Adresse oder Telefonnummer. Wir werden Ihre persönlichen Daten aus unseren Aufzeichnungen löschen, es sei denn, wir sind legitimiert, persönliche Daten aufzubewahren (z. B. wenn wir dies unter geltendem Recht tun müssen).",
+    "personal_text_3": "Wir werden Ihre persönlichen Daten niemals verkaufen. Ihre persönlichen Daten werden nur an Propaganda Solutions GmbH, deren verbundene oder assoziierte Unternehmen, Einzelhändler und Unternehmen, die von Propaganda Solutions GmbH als Subunternehmer zur Erfüllung unserer Verpflichtungen Ihnen gegenüber verwendet werden (\"ausgewählte Dritte\"), weitergegeben.",
+    "personal_text_4": "Wir können Sie um Ihre Zustimmung bitten, dass wir Ihre persönlichen Daten verwenden dürfen, um Sie über neue Produkte, bestehende Produkte, Dienstleistungen, Marktforschung und Sonderangebote zu informieren und wie wir Ihnen dienen, zu messen und zu verbessern. Wir und/oder unsere ausgewählten Dritten können Sie zu diesen Zwecken per Post, Telefon, E-Mail oder SMS kontaktieren.",
+    "personal_text_5": "Wenn Sie bereits Kunde sind, können wir Sie und/oder unsere ausgewählten Dritten möglicherweise mit Informationen zu den Produkten von Propaganda Solutions GmbH kontaktieren.",
+    "personal_text_6": "Wenn Sie ein neuer Kunde sind, werden wir Sie und/oder unsere ausgewählten Dritten nur kontaktieren, wenn Sie dem zugestimmt haben.",
+    "personal_text_7": "Unsere Website kann gelegentlich Links zu Websites unserer Einzelhändler, Partner-Netzwerke, Werbetreibenden und Partner enthalten. Wenn Sie einem Link zu einer dieser Websites folgen, beachten Sie bitte, dass diese Websites ihre eigenen Datenschutzrichtlinien haben und wir keine Verantwortung oder Haftung für diese Richtlinien übernehmen. Bitte überprüfen Sie die jeweiligen Richtlinien, bevor Sie persönliche Daten an diese Websites übermitteln.",
+    "personal_subtitle_1": "Wir können Ihre persönlichen Daten auch in einem der folgenden Fälle an ausgewählte Dritte weitergeben:",
+    "personal_subtitle_2": "Ihnen stehen gemäß geltendem Datenschutzrecht in Bezug auf die Verarbeitung persönlicher Daten die folgenden Rechte zu:",
+    "store_title": "Wo wir Ihre persönlichen Daten speichern",
+    "store_text_1": "Ihre persönlichen Daten werden von Propaganda Solutions GmbH und verbundenen oder assoziierten Unternehmen, Einzelhändlern, Agenten, Lieferanten und Unternehmen, die von Propaganda Solutions GmbH als Unterauftragnehmer zur Bearbeitung Ihrer Anfragen oder Nachrichten sowie zu Marketingzwecken, Marktforschung, Verfolgung von Verkaufsdaten und zur Kontaktaufnahme mit Ihnen erfasst, verarbeitet, übertragen und verwendet. Ihre persönlichen Daten können außerhalb des Europäischen Wirtschaftsraums („EWR“) übertragen und verarbeitet werden (insbesondere zum Zwecke der Speicherung und Verarbeitung durch das beauftragte Datenverarbeitungsunternehmen in den USA). Es werden alle vernünftigerweise erforderlichen Maßnahmen ergriffen, um sicherzustellen, dass Ihre Daten sicher und in Übereinstimmung mit den geltenden Gesetzen behandelt werden. Propaganda Solutions GmbH erfüllt nach ihrem Wissen vollständig die deutschen gesetzlichen Anforderungen, um sicherzustellen, dass die Datenschutzstandards für die Übermittlung personenbezogener Daten in Länder außerhalb des Europäischen Wirtschaftsraums oder der Schweiz eingehalten werden, und wird mit allen anderen Empfängern personenbezogener Daten, die in einem Land außerhalb des EWR und der Schweiz ansässig sind, dieselbe oder eine auf die deutschen gesetzlichen Anforderungen angepasste Vereinbarung auf Grundlage der EU-Standardvertragsklauseln „Verantwortlicher an Auftragsverarbeiter“ oder der grenzüberschreitenden Datenübertragungsvereinbarung veröffentlicht von der Bundesbeauftragten für den Datenschutz und die Informationsfreiheit eingehen. Alle Informationen, die Sie uns zur Verfügung stellen, werden auf unseren sicheren Servern [innerhalb der EU/in den USA] gespeichert. Wenn wir Ihnen ein Passwort gegeben haben (oder wenn Sie eines gewählt haben), mit dem Sie auf bestimmte Teile unserer Website zugreifen können, sind Sie für die Vertraulichkeit dieses Passworts verantwortlich.",
+    "store_text_2": "Die Übertragung von Informationen über das Internet ist nicht völlig sicher. Obwohl wir unser Bestes tun, um Ihre persönlichen Daten zu schützen, können wir die Sicherheit Ihrer Datenübertragung an unsere Website nicht garantieren. Jede Übertragung erfolgt auf Ihr eigenes Risiko. Nachdem wir Ihre Informationen erhalten haben, werden strenge Verfahren und Sicherheitsfunktionen angewendet, um unbefugten Zugriff zu verhindern.",
+    "customer_care_title": "Kundenservice und Unterstützung über soziale Medien",
+    "customer_care_text_1": "Sie können Propaganda Solutions GmbH auch über unsere Social Media-Kanäle (z. B. Facebook, Instagram und Twitter) kontaktieren. Zum Beispiel, wenn Sie uns eine Nachricht senden oder etwas auf unseren Social Media-Kanälen veröffentlichen, können wir die Informationen in Ihrer Nachricht oder Ihrem Beitrag verwenden, um Sie bezüglich des Problems, für das Sie uns über den verwendeten Social Media-Kanal kontaktiert haben, zu kontaktieren. Um Ihnen die gewünschte Unterstützung zu bieten, bitten wir Sie möglicherweise, uns per Direktnachricht oder privater Nachricht weitere Informationen zur Verfügung zu stellen, wie z. B. Details zu dem Problem, Name, E-Mail, VIN, Telefon, Standort (Stadt/Bundesland) und/oder Marke, Modell und Jahr des Fahrzeugs. Die von Ihnen bereitgestellten Informationen werden nicht für Direktmarketing verwendet. Marktforschung zur Verbesserung von Service und Produkten wird nur auf der Grundlage von aggregierten (anonymisierten) Daten durchgeführt. Bitte beachten Sie, dass Sie keine sensiblen Daten (wie Informationen zur Rasse oder ethnischen Herkunft, politische Meinungen, religiöse oder philosophische Überzeugungen oder Gesundheitsdaten) in Ihren Beitrag oder Ihre Nachricht aufnehmen sollten. Beachten Sie, dass, wenn Sie etwas auf einem öffentlichen Social Media-Kanal veröffentlichen, jeder es möglicherweise lesen kann.",
+    "customer_care_text_2": "Indem Sie unsere Website weiterhin nutzen, ohne Ihre Cookie-Einstellungen zu ändern, erkennen Sie hiermit an und stimmen der Verwendung von Cookies durch Propaganda Solutions GmbH zu.",
+    "e_commerce_title": "E-Commerce",
+    "e_commerce_text": "Diejenigen, die Transaktionen mit Propaganda Solutions GmbH durchführen, indem sie Dienstleistungen oder Produkte von Propaganda Solutions GmbH kaufen, werden gebeten, zusätzliche Informationen bereitzustellen, einschließlich der persönlichen und finanziellen Informationen, die zur Abwicklung dieser Transaktionen erforderlich sind. In jedem Fall erfasst Propaganda Solutions GmbH solche Informationen nur insoweit, als dies zur Erfüllung des Zwecks der Interaktion des Besuchers mit Propaganda Solutions GmbH erforderlich oder angemessen ist. Propaganda Solutions GmbH gibt keine personenbezogenen Informationen weiter, außer wie unten beschrieben. Und Besucher können sich jederzeit weigern, personenbezogene Informationen bereitzustellen, wobei zu beachten ist, dass dies sie daran hindern kann, bestimmte mit der Website verbundene Aktivitäten auszuführen.",
+    "changes_title": "Änderungen an der Datenschutzrichtlinie",
+    "changes_text": "Obwohl die meisten Änderungen wahrscheinlich geringfügig sein werden, kann Propaganda Solutions GmbH seine Datenschutzrichtlinie von Zeit zu Zeit und nach eigenem Ermessen ändern. Propaganda Solutions GmbH ermutigt Besucher, diese Seite regelmäßig auf Änderungen ihrer Datenschutzrichtlinie zu überprüfen. Ihre fortgesetzte Nutzung dieser Website nach einer Änderung dieser Datenschutzrichtlinie stellt Ihre Zustimmung zu solchen Änderungen dar."
+  },
+  "impressum": {
+    "director": "Geschäftsführer",
+    "registered": "Sitz der Gesellschaft",
+    "disclaimer": "Der Zugang zu und die Nutzung dieser Website unterliegen den folgenden Nutzungsbedingungen und geltendem Recht. Sofern nicht anders angegeben, sind alle Inhalte auf dieser Website, einschließlich Text, Bilder und deren Anordnung, Eigentum von Propaganda Solutions GmbH. Alle auf dieser Website verwendeten und erwähnten Marken sind das Eigentum ihrer jeweiligen Inhaber. Nichts auf dieser Website sollte so ausgelegt werden, dass es durch stillschweigende Genehmigung, Verwirkung oder auf andere Weise eine Lizenz oder ein Recht an Eigentum von Propaganda Solutions GmbH oder einer dritten Partei verleiht, das durch Urheberrecht, Patent, Markenrecht oder ein anderes Recht geschützt ist.",
+    "external_website_1": "Inhalte externer Websites",
+    "external_website_2": "Propaganda Solutions GmbH hat keine Kontrolle über Websites oder Werbetreibende, die auf unsere Website verlinken oder von unserer Website verlinkt sind, und ist nicht verantwortlich für die Datenschutzpraktiken und/oder den Inhalt solcher Websites."
+  },
+  "faq": {
+    "header": {
+      "title": "FAQ",
+      "subtitle": "Antworten auf alle Fragen, die Sie haben könnten"
+    },
+    "searchPlaceholder": "Suche..."
+  },
+  "admin": {
+    "login": {
+      "back": "Zurück",
+      "title": "Willkommen im Admin-Panel!",
+      "text": "Hier können Sie alle Aspekte Ihrer Website verwalten, von Inhalten bis zu Benutzern.",
+      "login": "Anmelden",
+      "remember": "Merken Sie mich für 30 Tage",
+      "forgot": "Passwort vergessen?",
+      "emailError": "Ungültige E-Mail-Adresse",
+      "emailRequired": "E-Mail ist erforderlich",
+      "passwordRequired": "Passwort ist erforderlich",
+      "invalidCredentials": "Ungültige Anmeldedaten, bitte versuchen Sie es erneut",
+      "serverError": "Serverfehler, bitte versuchen Sie es später noch einmal",
+      "notificationMobile": "Für ein besseres Erlebnis nutzen Sie bitte einen größeren Bildschirm.",
+      "sendLink": "Sende Bestätigungslink"
+    },
+    "blog": {
+      "blog": "Bloggen",
+      "dashboard": "Dashboard",
+      "bestBlogTitle": "Beliebtester Blog nach Ansichten",
+      "readingTime": "Durchschn. Lesezeit",
+      "minute": "Min",
+      "views": "Aufrufe",
+      "lastPosted": "Zuletzt veröffentlicht",
+      "posted": "Veröffentlicht am",
+      "drafts": "Entwürfe",
+      "noDrafts": "Keine Entwürfe erstellt",
+      "lastEdited": "Zuletzt bearbeitet",
+      "lastUpdated": "Zuletzt aktualisiert",
+      "createNew": "NEUEN BLOG ERSTELLEN",
+      "scheduled": "Geplante Blogs",
+      "noScheduled": "Keine geplanten Blogs erstellt",
+      "scheduledFor": "Geplant für",
+      "blogPosts": "Blogbeiträge",
+      "removeFeatured": "Aus den Highlights entfernen",
+      "setFeatured": "Als Highlight setzen",
+      "featuredNotification": "Wir haben unsere Kapazität von 2 hervorgehobenen Beiträgen erreicht. Um diesen Beitrag hervorzuheben, entfernen Sie bitte zuerst einen der aktuellen hervorgehobenen Beiträge.",
+      "edit": "Bearbeiten",
+      "addFilter": "Einen Filter hinzufügen",
+      "name": "Name",
+      "date": "Datum",
+      "status": "Status",
+      "removeFilter": "Filter entfernen",
+      "chooseStatus": "Status wählen",
+      "draftLabel": "Entwurf",
+      "publishedLabel": "Veröffentlicht",
+      "scheduledLabel": "Geplant",
+      "reschedule": "Neu planen"
+    },
+    "resources": {
+      "title": "Ressourcen",
+      "blog": "Blogs",
+      "educational": "Bildungsdokumente",
+      "articles": "Medienartikel",
+      "videos": "Videos",
+      "backToResources": "Zurück zu den Ressourcen",
+      "allBlogs": "Alle Blogs",
+      "allArticles": "Alle Medienartikel",
+      "allYoutube": "Alle Youtube-Videos",
+      "allEducationals": "Alle Bildungsdokumente"
+    },
+    "manageUser": {
+      "title": "Benutzerverwaltung",
+      "teamMembers": "Teammitglieder",
+      "addUser": "NEUEN BENUTZER HINZUFÜGEN",
+      "newUser": "Neuer Benutzer",
+      "enterName": "Namen eingeben",
+      "nameLastName": "Name Nachname",
+      "enterEmail": "E-Mail eingeben",
+      "chooseAccess": "Zugriffsebene wählen",
+      "accessLevel": "Zugriffsebene",
+      "choosePosition": "Position im Unternehmen wählen",
+      "position": "Position",
+      "nameRequired": "Name ist erforderlich",
+      "accessLevelRequired": "Zugriffsebene ist erforderlich",
+      "positionRequired": "Position ist erforderlich",
+      "actionHistory": "Aktionsverlauf",
+      "notificationTitle": "Sind Sie sicher, dass Sie dieses Konto löschen möchten?",
+      "delete": "Löschen",
+      "deleting": "Löschen...",
+      "cancel": "Abbrechen"
+    },
+    "newBlog": {
+      "addNew": "Blog hinzufügen",
+      "headline": "Überschrift",
+      "mainImage": "Hauptbild",
+      "bodyText": "Text",
+      "topic": "Thema",
+      "addVideo": "Youtube-Video hinzufügen",
+      "videoUrl": "Youtube Video URL",
+      "add": "Hinzufügen",
+      "width": "Breite (Optional)",
+      "height": "Höhe (Optional)",
+      "notificationYoutube": "Bitte geben Sie eine gültige Youtube-URL ein",
+      "addImage": "Bild hinzufügen",
+      "uploadImage": "Bild hochladen",
+      "allowedExtensions": "Ungültiger Dateityp. Bitte laden Sie eine .jpg, .jpeg, .png, .svg oder .gif Datei hoch",
+      "exceededSize": "Die Dateigröße darf nicht überschreiten ",
+      "placeholder": "Geben Sie Ihren Text ein",
+      "chooseTopic": "Thema wählen",
+      "publish": "Veröffentlichen",
+      "publishing": "Wird veröffentlicht...",
+      "saveDraft": "Im Entwürfe speichern",
+      "saving": "Wird gespeichert...",
+      "schedule": "Planen",
+      "scheduleFor": "Planen für:",
+      "dateOfPosting": "Veröffentlichungsdatum",
+      "placeholderDate": "Wählen Sie ein Datum",
+      "headlineRequired": "Überschrift ist erforderlich",
+      "contentRequired": "Inhalt ist erforderlich",
+      "topicRequired": "Thema ist erforderlich",
+      "imageRequired": "Bild ist erforderlich",
+      "url": "URL-Pfad",
+      "urlRequired": "URL-Pfad ist erforderlich",
+      "urlInvalid": "URL-Pfad ist ungültig",
+      "metaTitle": "Meta-Titel",
+      "metaDescription": "Meta-Beschreibung",
+      "postPublished": "Blog wurde erfolgreich veröffentlicht",
+      "draftSaved": "Blog wurde erfolgreich in Entwürfen gespeichert",
+      "postScheduled": "Blog wurde erfolgreich geplant",
+      "deleteNotification": "Sind Sie sicher, dass Sie diesen Blogbeitrag löschen möchten?",
+      "newCategoryName": "Neuer Kategoriename",
+      "required": "Erforderlich",
+      "addMore": "Mehr hinzufügen",
+      "fillAll": "Bitte füllen Sie alle Felder in beiden Sprachen aus",
+      "placeholderTopic": "Neues Thema eingeben"
+    },
+    "settings": {
+      "settings": "Einstellungen",
+      "userSettings": "Benutzereinstellungen",
+      "logout": "Abmelden",
+      "changePassword": "PASSWORT ÄNDERN",
+      "oldlabel": "Altes Passwort eingeben",
+      "oldPassword": "Altes Passwort",
+      "oldPasswordRequired": "Altes Passwort ist erforderlich",
+      "newlabel": "Neues Passwort eingeben",
+      "newPassword": "Neues Passwort",
+      "newPasswordRequired": "Neues Passwort ist erforderlich",
+      "confirmLabel": "Neues Passwort bestätigen",
+      "confirmPassword": "Passwort bestätigen",
+      "confirmPasswordRequired": "Passwortbestätigung ist erforderlich",
+      "passwordsMatch": "Passwörter stimmen nicht überein",
+      "passwordLong": "Passwort darf maximal 20 Zeichen lang sein",
+      "passwordShort": "Passwort muss mindestens 8 Zeichen lang sein",
+      "passwordSpace": "Passwort darf keine Leerzeichen enthalten",
+      "passwordChanged": "Passwort wurde erfolgreich aktualisiert",
+      "displayName": "Anzeigename",
+      "displayNameRequired": "Anzeigename ist erforderlich",
+      "nameSuccess": "Name wurde erfolgreich aktualisiert",
+      "positionSuccess": "Position wurde erfolgreich aktualisiert",
+      "emailNotification": "Sind Sie sicher, dass Sie Ihre E-Mail ändern möchten?",
+      "emailSuccess": "E-Mail wurde erfolgreich aktualisiert",
+      "current": "Aktuell",
+      "new": "Neu",
+      "save": "Speichern",
+      "saving": "Speichert...",
+      "delete": "Konto löschen",
+      "deleteNotification": "Sind Sie sicher, dass Sie Ihr Konto löschen möchten?"
+    }
+  },
+  "resources": {
+    "header": {
+      "scrollPathId": "ressourcen-haupt"
+    },
+    "articles": {
+      "title": "Medienartikel",
+      "pagePath": "medienartikel"
+    },
+    "blogs": {
+      "title": "Blogs"
+    },
+    "educational": {
+      "title": "Bildung",
+      "pagePath": "bildung"
+    },
+    "podcast": {
+      "title": "Podcast"
+    }
+  },
+  "subscriptions": {
+    "goHome": "ZUR STARTSEITE ZURÜCKKEHREN",
+    "confirming": "Wir bestätigen Ihre Anmeldung.",
+    "success": "Sie haben sich erfolgreich für unseren Newsletter angemeldet!",
+    "error": "Hoppla! Beim Verarbeiten Ihrer Anmeldung ist ein Fehler aufgetreten. Bitte stellen Sie sicher, dass Sie eine gültige E-Mail-Adresse eingegeben haben und versuchen Sie es erneut."
+  },
+  "unsubscribe": {
+    "title": "Schade, dass Sie uns verlassen!",
+    "subtitle": "(Aber wir verstehen es)",
+    "text_1": "Es tut uns leid zu hören, dass Sie sich von unseren E-Mails abmelden möchten.",
+    "text_2": "Dürfen wir fragen, warum Sie gehen? Ihr Feedback hilft uns, unseren Inhalt zu verbessern und Newsletter zu liefern, die Ihnen wirklich gefallen.",
+    "option_1": "Ich finde die Informationen nicht wertvoll.",
+    "option_2": "Der Inhalt ist nicht relevant für meine Interessen.",
+    "option_3": "Ich erhalte zu viele E-Mails.",
+    "option_4": "Anderer",
+    "feedback": "Geben Sie Ihr Feedback ein",
+    "unsubscribe": "Abmelden",
+    "lessEmails": "Weniger E-Mails erhalten",
+    "frequencyText": "Ich möchte E-Mails erhalten...",
+    "frequencyOption1": "Täglich",
+    "frequencyOption2": "Wöchentlich",
+    "frequencyOption3": "Monatlich",
+    "unsubscribeSuccess": "Erfolgreich abgemeldet",
+    "unsubscribeSuccessText": "Es tut uns leid, dass Sie gehen, aber wir schätzen Ihr Feedback. Sie werden keine E-Mails mehr von uns erhalten.",
+    "frequencySuccess": "Abonnement aktualisiert!",
+    "frequencySuccessText": "Danke, dass Sie uns Ihre Präferenzen mitgeteilt haben! Sie werden jetzt E-Mails in der von Ihnen gewählten Häufigkeit erhalten."
+  }
+}

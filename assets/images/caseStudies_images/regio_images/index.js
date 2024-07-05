@@ -1,0 +1,9 @@
+export { default as regioimage } from './regio-image.webp';
+export { default as regioimage1 } from './regio-image1.webp';
+export { default as regioimage2 } from './regio-image2.webp';
+export { default as regioimage3 } from './regio_image3.webp';
+export { default as regioimage4 } from './regio_image4.jpg';
+export { default as regioimage5 } from './regio_image5.jpg';
+export { default as regioimage6 } from './regio_image6.jpg';
+export { default as ellipseMobile } from './ellipse--mobile.png';
+export { default as ellipseLaptop } from './ellipse--laptop.png';

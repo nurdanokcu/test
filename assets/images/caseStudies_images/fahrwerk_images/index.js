@@ -1,0 +1,13 @@
+export { default as headerimage } from './headerimage.webp';
+export { default as image1 } from './image1.webp';
+export { default as image3 } from './image3.webp';
+export { default as image2 } from './image2.webp';
+export { default as image5 } from './image7D.webp';
+export { default as image6 } from './image8D.webp';
+export { default as image7 } from './image9D.webp';
+export { default as image8 } from './image10D.webp';
+export { default as image9 } from './image11D.webp';
+export { default as image10 } from './image12D.webp';
+export { default as image11 } from './image6D.webp';
+export { default as image12 } from './image4D.webp';
+export { default as image13 } from './image5D.png';

@@ -1,0 +1,286 @@
+<script setup>
+import {
+  citycampusimage1,
+  citycampusimage2,
+} from '~/assets/images/caseStudies_images/cityCampus_images';
+
+defineProps({
+  idForHidden: {
+    type: String,
+    required: true,
+  },
+});
+</script>
+
+<template>
+  <div class="solution">
+    <div :id="idForHidden" class="solution-hidden"></div>
+    <CommonIntro
+      :title="$t('case_studies.regio.solve-it.title')"
+      class="solution-header"
+    />
+    <div class="solution-content">
+      <div class="solution-images">
+        <div class="solution-one">
+          <p class="solution-text">
+            {{ $t("case_studies.citycampus.solve-it.text") }}
+          </p>
+          <p class="solution-text--small">
+            <span class="solution-icons">
+              <IconsCaseStudiesLineDesktopTop class="curved-line--desktop" />
+              <IconsCaseStudiesLineTabletTop class="curved-line--tablet" />
+              <IconsCaseStudiesSektorPurpleRing class="solution-ring" />
+            </span>
+            {{ $t("case_studies.citycampus.solve-it.text_1") }}
+          </p>
+          <div class="solution-image-wrapper">
+            <img
+              class="solution-image"
+              :src="citycampusimage1"
+              alt="struktur"
+            />
+          </div>
+        </div>
+        <div class="solution-two">
+          <p class="solution-text--small">
+            <span class="solution-icons">
+              <IconsCaseStudiesSektorPurpleRing class="solution-ring" />
+              <IconsCaseStudiesLineDesktopBottom
+                class="curved-line--desktop-bottom"
+              />
+              <IconsCaseStudiesLineTabletBottom
+                class="curved-line--tablet-bottom"
+              />
+            </span>
+            {{ $t("case_studies.citycampus.solve-it.text_2") }}
+          </p>
+          <div class="solution-image-wrapper solution-image-wrapper--two">
+            <img
+              class="solution-image"
+              :src="citycampusimage2"
+              alt="struktur"
+            />
+          </div>
+        </div>
+      </div>
+      <div class="how-we-did-it">
+        <p class="title">
+          {{ $t("case_studies.sektor.how-we-did-it.title") }}
+        </p>
+        <div class="ticked-text-container">
+          <CommonTickedText
+            :text="$t('case_studies.citycampus.solve-it.text_3')"
+          />
+          <CommonTickedText
+            :text="$t('case_studies.citycampus.solve-it.text_4')"
+            class="aligned"
+          />
+          <CommonTickedText
+            :text="$t('case_studies.citycampus.solve-it.text_5')"
+            class="aligned"
+          />
+          <CommonTickedText
+            :text="$t('case_studies.citycampus.solve-it.text_6')"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<style scoped>
+.solution {
+  padding: 30px 24px;
+  max-width: var(--max-width-content);
+  margin: auto;
+  position: relative;
+}
+.solution-hidden {
+  position: absolute;
+  top: -100px;
+}
+.solution-header {
+  margin-bottom: 54px;
+}
+.solution-content {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.solution-text {
+  color: #000;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: normal;
+}
+.solution-images {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.solution-one,
+.solution-two {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.solution-text--small {
+  display: flex;
+  gap: 16px;
+  color: #000;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: normal;
+}
+.solution-ring {
+  flex-shrink: 0;
+}
+.solution-icons {
+  height: fit-content;
+  position: relative;
+}
+.curved-line--desktop,
+.curved-line--tablet,
+.curved-line--desktop-bottom,
+.curved-line--tablet-bottom {
+  display: none;
+}
+.solution-image-wrapper {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  border-radius: 16px;
+  overflow: hidden;
+  background: #e4e4e4;
+  padding: 24px;
+}
+.solution-image {
+  width: 100%;
+  height: 100%;
+  border-radius: 16px;
+  object-fit: cover;
+  max-width: 600px;
+}
+.solution-image-wrapper--two {
+  padding-bottom: 0;
+  box-shadow: 74px 74px 140px 0px rgba(116, 15, 73, 0.2);
+}
+.how-we-did-it {
+  border-radius: 16px;
+  background: #fff;
+  box-shadow: 0px 4px 14px 0px rgba(0, 0, 0, 0.25);
+  padding: 20px;
+  margin: 65px 0px 0px;
+}
+.title {
+  color: var(--magenta, #740f49);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+}
+
+@media (min-width: 768px) {
+  .solution {
+    padding: 30px 32px;
+  }
+  .solution-header {
+    margin-bottom: 80px;
+  }
+  .solution-image-wrapper {
+    margin: 0 auto;
+  }
+  .curved-line--tablet {
+    display: block;
+    position: absolute;
+    top: 8px;
+    left: -2px;
+    transform: translateX(-100%);
+    flex-shrink: 0;
+    z-index: -1;
+  }
+  .curved-line--tablet-bottom {
+    display: block;
+    position: absolute;
+    bottom: 8px;
+    left: 0;
+    transform: translateX(-100%);
+    flex-shrink: 0;
+    z-index: -1;
+  }
+  .solution-text--small {
+    padding-left: 200px;
+  }
+  .ticked-text-container {
+    display: grid;
+    column-gap: 16px;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (min-width: 768px) {
+  .solution {
+    padding: 30px 64px;
+  }
+}
+@media (min-width: 1200px) {
+  .solution {
+    display: flex;
+    gap: 48px;
+  }
+  .solution-header {
+    width: 25%;
+  }
+  .solution-content {
+    padding: 0;
+    width: 70%;
+  }
+}
+@media (min-width: 1500px) {
+  .solution-images {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+  }
+  .solution-two {
+    flex-direction: column-reverse;
+  }
+  .solution-one {
+    width: 50%;
+  }
+  .solution-two {
+    width: 50%;
+  }
+  .solution-two .solution-text--small {
+    padding-left: 0;
+    padding-bottom: 48px;
+  }
+  .solution-one .solution-text--small {
+    padding-left: 42px;
+  }
+
+  .curved-line--tablet,
+  .curved-line--tablet-bottom {
+    display: none;
+  }
+  .curved-line--desktop {
+    display: block;
+    position: absolute;
+    top: 8px;
+    left: 24px;
+    transform: translateX(-50%);
+    flex-shrink: 0;
+    z-index: -1;
+  }
+  .curved-line--desktop-bottom {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 24px;
+    transform: translateX(-100%);
+    flex-shrink: 0;
+    z-index: -1;
+  }
+}
+</style>

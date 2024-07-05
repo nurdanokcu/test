@@ -1,0 +1,75 @@
+.dp__outer_menu_wrap {
+  width: 100%;
+  box-sizing: border-box;
+}
+.dp__menu {
+  border: none !important;
+  border-radius: 16px;
+  background-color: transparent !important;
+  font-family: 'Source Sans 3', sans-serif;
+}
+
+.dp__calendar_header {
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 22px;
+  text-transform: uppercase;
+  background: var(--Gradient-Logo, linear-gradient(112deg, #2400FF 0.23%, #EB6F0E 101.08%));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.dp__cell_inner {
+  display: flex;
+  justify-content: center;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 22px;
+  border-radius: 12px;
+}
+
+.dp__today {
+  border: 1px solid var(--primary-blue);
+}
+
+.dp__month_year_select {
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+
+.dp--year-select:hover, .dp__month_year_select:hover {
+  background: var(--primary-almost-white) !important;
+}
+
+.dp__overlay_cell_active {
+  cursor: pointer;
+  text-align: center;
+  background: var(--primary-almost-white);
+}
+
+.dp__inner_nav_disabled:hover,
+.dp__inner_nav_disabled {
+  opacity: 0.3;
+  background: none;
+}
+
+ .dp__cell_disabled {
+  opacity: 0.3;
+}
+
+.dp__cell_inner.dp__pointer.dp__active_date,
+
+.dp__overlay_cell_active {
+  background: var(--primary-blue) !important;
+  color: var(--primary-white) !important;
+}
+.dp__date_hover:hover,
+.dp__overlay_cell:hover {
+  background: var(--primary-almost-white) !important;
+}
+
+

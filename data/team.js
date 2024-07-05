@@ -1,0 +1,88 @@
+export const teamEn = [
+  {
+    id: 1,
+    name: 'Alena',
+    position: 'Account Lead',
+    text: 'Meet our experienced account manager originally from Ukraine. She\'s a people person who loves communicating with clients worldwide. Alena is a charismatic team player who enjoys working with a progressive and ambitious team.',
+    image: '/alena.webp',
+  },
+  {
+    id: 2,
+    name: 'Nurdan',
+    position: 'Frontend Developer',
+    text: 'Nurdan is a front-end developer with a strong background in mathematics, having won multiple math Olympiads. She applies her analytical skills to create engaging web applications. In her free time, Nurdan enjoys reading, playing video games, and traveling to new places.',
+    image: '/nurdan.webp',
+  },
+  {
+    id: 3,
+    name: 'Oleksii',
+    position: 'Business Development Manager',
+    text: 'Oleksii is result-oriented sales development expert with technical knowledge in frameworks and 3 years of experience. Continuously seeks and implements new knowledge in daily workflows.',
+    image: '/oleksii.webp',
+  },
+  {
+    id: 4,
+    name: 'Nathaniel',
+    position: 'Backend/DevOps Engineer',
+    text: 'Nathaniel David, a Nigerian Backend/DevOps Engineer, began his career in Electronics/Telecommunication engineering before pivoting to information and communication technology. With expertise in computer networking, security, software development, and cloud computing, Nathaniel specializes in backend technologies like Yii2, CakePHP, and Laravel for web application development. Beyond his professional pursuits, he enjoys staying abreast of new tech trends, playing video games, and playing the piano.',
+    image: '/nathaniel.webp',
+  },
+  {
+    id: 5,
+    name: 'Anna',
+    position: 'Marketing Manager',
+    text: 'Anna is a Ukrainian internet marketer with extensive experience in SEO and advertising on various platforms, including Google Ads, Facebook, and Instagram. Anna is a certified Google Advertising specialist with an interest in psychology. In her free time, she enjoys dancing and fitness.',
+    image: '/anna.webp',
+  },
+  {
+    id: 6,
+    name: 'Tetiana',
+    position: 'Designer',
+    text: 'Tetiana started designing at 16 and went on to freelance for 200+ clients worldwide. Feeling burnt out and lonely, she joined Propaganda Solutions to explore UI/UX design. Now, she leads projects and works with a diverse team. Tetiana believes design is a functional art that requires careful consideration and testing. She enjoys playing tabletop games, traveling, and meeting new people.',
+    image: '/tetiana.webp',
+  },
+];
+export const teamDe = [
+  {
+    id: 1,
+    name: 'Alena',
+    position: 'Account Lead',
+    text: 'Treffen Sie unseren erfahrenen Account Manager aus der Ukraine. Sie ist eine kommunikative Person, die gerne mit Kunden weltweit kommuniziert. Alena ist ein charismatischer Teamplayer, der gerne mit einem fortschrittlichen und ehrgeizigen Team arbeitet.',
+    image: '/alena.webp',
+  },
+  {
+    id: 2,
+    name: 'Nurdan',
+    position: 'Front-end Developer',
+    text: 'Nurdan ist eine Front-End-Entwicklerin mit einem starken Hintergrund in Mathematik und hat mehrere Mathematik-Olympiaden gewonnen. Sie wendet ihre analytischen Fähigkeiten an, um ansprechende Webanwendungen zu erstellen. In ihrer Freizeit liest Nurdan gerne, spielt Videospiele Und reist gerne an neuen Orten.',
+    image: '/nurdan.webp',
+  },
+  {
+    id: 3,
+    name: 'Oleksii',
+    position: 'Business Development Manager',
+    text: 'Oleksii ist ein ergebnisorientierter Vertriebsentwicklungsexperte mit technischem Wissen in Frameworks und 3 Jahren Erfahrung. Sucht kontinuierlich und implementiert neues Wissen in täglichen Arbeitsabläufen.',
+    image: '/oleksii.webp',
+  },
+  {
+    id: 4,
+    name: 'Nathaniel',
+    position: 'Backend/DevOps Engineer',
+    text: 'Nathaniel David, ein nigerianischer Backend/DevOps-Ingenieur, begann seine Karriere im Bereich Elektronik/Telekommunikationstechnik, bevor er sich der Informations- und Kommunikationstechnologie zuwandte. Mit Expertise in Computernetzwerken, Sicherheit, Softwareentwicklung und Cloud-Computing ist Nathaniel spezialisiert auf Backend-Technologien wie Yii2, CakePHP und Laravel für die Entwicklung von Webanwendungen. Neben seinen beruflichen Aktivitäten interessiert er sich für neue Technologietrends, spielt gerne Videospiele und Klavier.',
+    image: '/nathaniel.webp',
+  },
+  {
+    id: 5,
+    name: 'Anna',
+    position: 'Marketing Manager',
+    text: 'Anna ist eine ukrainische Internet-Marketerin mit umfangreicher Erfahrung in SEO und Werbung auf verschiedenen Plattformen, einschließlich Google Ads, Facebook und Instagram. Anna ist eine zertifizierte Spezialistin für Google-Werbung und interessiert sich für Psychologie. In ihrer Freizeit tanzt sie gerne und macht Fitness.',
+    image: '/anna.webp',
+  },
+  {
+    id: 6,
+    name: 'Tetiana',
+    position: 'Designer',
+    text: 'Tetiana begann im Alter von 16 Jahren mit dem Design und arbeitete später als Freiberuflerin für über 200 Kunden weltweit. Ausgebrannt und einsam fühlend, trat sie Propaganda Solutions bei, um UI/UX-Design zu erkunden. Jetzt leitet sie Projekte und arbeitet mit einem vielfältigen Team. Tetiana glaubt, dass Design eine funktionale Kunst ist, die sorgfältige Überlegung und Tests erfordert. Sie genießt es, Brettspiele zu spielen, zu reisen und neue Leute kennenzulernen.',
+    image: '/tetiana.webp',
+  },
+];

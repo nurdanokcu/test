@@ -1,0 +1,123 @@
+.custom-bold-icon {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  background: url('./bold.svg') no-repeat center center;
+  background-size: contain;
+}
+.custom-color-icon {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  background: url('./color_lens.svg') no-repeat center center;
+  background-size: contain;
+}
+.custom-link-icon {
+  width: 20px;
+  height: 16px;
+  display: inline-block;
+  background: url('./link.svg') no-repeat center center;
+  background-size: contain;
+}
+
+.custom-underline-icon {
+  width: 20px;
+  height: 16px;
+  display: inline-block;
+  background: url('./underline.svg') no-repeat center center;
+  background-size: contain;
+}
+
+.custom-italic-icon {
+  width: 20px;
+  height: 16px;
+  display: inline-block;
+  background: url('./italic.svg') no-repeat center center;
+  background-size: contain;
+}
+.custom-unorderedlist-icon {
+  width: 20px;
+  height: 16px;
+  display: inline-block;
+  background: url('./ul.svg') no-repeat center center;
+  background-size: contain;
+}
+.custom-orderedlist-icon {
+  width: 20px;
+  height: 16px;
+  display: inline-block;
+  background: url('./ol.svg') no-repeat center center;
+  background-size: contain;
+}
+.custom-align-left-icon {
+  width: 20px;
+  height: 16px;
+  display: inline-block;
+  background: url('./align_left.svg') no-repeat center center;
+  background-size: contain;
+}
+.custom-align-center-icon {
+  width: 20px;
+  height: 16px;
+  display: inline-block;
+  background: url('./align_center.svg') no-repeat center center;
+  background-size: contain;
+}
+.custom-align-right-icon {
+  width: 20px;
+  height: 16px;
+  display: inline-block;
+  background: url('./align_right.svg') no-repeat center center;
+  background-size: contain;
+}
+.custom-align-justify-icon {
+  width: 20px;
+  height: 16px;
+  display: inline-block;
+  background: url('./align_justify.svg') no-repeat center center;
+  background-size: contain;
+}
+
+.custom-picture-icon {
+  width: 20px;
+  height: 16px;
+  display: inline-block;
+  background: url('./picture.svg') no-repeat center center;
+  background-size: contain;
+}
+.custom-table-icon {
+  width: 20px;
+  height: 16px;
+  display: inline-block;
+  background: url('./table.svg') no-repeat center center;
+  background-size: contain;
+}
+.custom-video-icon {
+  width: 20px;
+  height: 16px;
+  display: inline-block;
+  background: url('./video.svg') no-repeat center center;
+  background-size: contain;
+}
+
+.custom-undo-icon {
+  width: 20px;
+  height: 16px;
+  display: inline-block;
+  background: url('./undo.svg') no-repeat center center;
+  background-size: contain;
+}
+.custom-redo-icon {
+  width: 20px;
+  height: 16px;
+  display: inline-block;
+  background: url('./redo.svg') no-repeat center center;
+  background-size: contain;
+}
+.custom-horizontal-icon {
+  width: 20px;
+  height: 16px;
+  display: inline-block;
+  background: url('./horizontal.svg') no-repeat center center;
+  background-size: contain;
+}

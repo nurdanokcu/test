@@ -1,0 +1,11 @@
+export { default as homeHeader1 } from './header_image-1.webp';
+export { default as homeHeader2 } from './header_image-2.webp';
+export { default as homeHeader3 } from './header_image-3.webp';
+export { default as regioLogo } from './review_logo-regio.webp';
+export { default as strukturLogo } from './review_logo-struktur.webp';
+export { default as ellipse1 } from './Ellipse 1.webp';
+export { default as ellipse2 } from './Ellipse 2.webp';
+export { default as iconMonitoring } from './eos-icons_monitoring.png';
+export { default as iconFluentPeople } from './fluent_people-audience.png';
+export { default as iconExpandUp } from './icon-park-solid_expand-up.png';
+export { default as iconPigMoney } from './mingcute_pig-money.png';
