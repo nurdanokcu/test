@@ -4,7 +4,16 @@ import { vIntersectionObserver } from '@vueuse/components';
 const { t } = useI18n();
 const title = computed(() => t('seo.caseStudies.struktur.title'));
 const description = computed(() => t('seo.caseStudies.struktur.description'));
-
+useHead({
+  title: title.value,
+  meta: [
+    {
+      name: 'description',
+      content: description.value,
+      tagPriority: 0
+    },
+  ],
+});
 definePageMeta({
   middleware: ['route'],
 });
@@ -48,10 +57,6 @@ const ids = ['strukturApproach', 'strukturResults', 'strukturFeedback'];
 
 <template>
   <div>
-    <Head>
-      <Title>{{ title }}</Title>
-      <Meta name="description" :content="description" />
-    </Head>
     <CaseStudiesStrukturHeader />
     <main class="main">
       <div

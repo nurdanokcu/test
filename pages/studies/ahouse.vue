@@ -4,6 +4,16 @@ import { vIntersectionObserver } from '@vueuse/components';
 const { t } = useI18n();
 const title = computed(() => t('seo.caseStudies.aHouse.title'));
 const description = computed(() => t('seo.caseStudies.aHouse.description'));
+useHead({
+  title: title.value,
+  meta: [
+    {
+      name: 'description',
+      content: description.value,
+      tagPriority: 0
+    },
+  ],
+});
 
 definePageMeta({
   middleware: ['route'],
@@ -48,10 +58,6 @@ const ids = ['ahouseApproach', 'ahouseResults', 'ahouseFeedback'];
 
 <template>
   <div>
-    <Head>
-      <Title>{{ title }}</Title>
-      <Meta name="description" :content="description" />
-    </Head>
     <CaseStudiesAHouseHeader />
     <main class="main">
       <div

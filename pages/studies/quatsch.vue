@@ -4,7 +4,16 @@ import { vIntersectionObserver } from '@vueuse/components';
 const { t } = useI18n();
 const title = computed(() => t('seo.caseStudies.quatsch.title'));
 const description = computed(() => t('seo.caseStudies.quatsch.description'));
-
+useHead({
+  title: title.value,
+  meta: [
+    {
+      name: 'description',
+      content: description.value,
+      tagPriority: 0
+    },
+  ],
+});
 definePageMeta({
   middleware: ['route'],
 });
@@ -48,10 +57,6 @@ const ids = ['quatschApproach', 'quatschResults', 'quatschFeedback'];
 
 <template>
   <div>
-    <Head>
-      <Title>{{ title }}</Title>
-      <Meta name="description" :content="description" />
-    </Head>
     <CaseStudiesQuatschHeader />
     <main class="main">
       <div

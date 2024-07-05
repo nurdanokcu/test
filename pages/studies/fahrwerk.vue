@@ -8,7 +8,16 @@ const description = computed(() => t('seo.caseStudies.fahrwerk.description'));
 definePageMeta({
   middleware: ['route'],
 });
-
+useHead({
+  title: title.value,
+  meta: [
+    {
+      name: 'description',
+      content: description.value,
+      tagPriority: 0
+    },
+  ],
+});
 const defaultState = {
   approach: false,
   results: false,
@@ -48,10 +57,6 @@ const ids = ['fahrwerkApproach', 'fahrwerkResults', 'fahrwerkFeedback'];
 
 <template>
   <div>
-    <Head>
-      <Title>{{ title }}</Title>
-      <Meta name="description" :content="description" />
-    </Head>
     <CaseStudiesFahrwerkHeader />
     <main class="main">
       <div

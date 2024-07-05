@@ -6,6 +6,16 @@ const title = computed(() => t('seo.caseStudies.mybudapester.title'));
 const description = computed(() =>
   t('seo.caseStudies.mybudapester.description'),
 );
+useHead({
+  title: title.value,
+  meta: [
+    {
+      name: 'description',
+      content: description.value,
+      tagPriority: 0
+    },
+  ],
+});
 
 definePageMeta({
   middleware: ['route'],
@@ -50,10 +60,6 @@ const ids = ['budapesterApproach', 'budapesterResults', 'budapesterFeedback'];
 
 <template>
   <div>
-    <Head>
-      <Title>{{ title }}</Title>
-      <Meta name="description" :content="description" />
-    </Head>
     <CaseStudiesMybudapesterHeader />
     <div class="main">
       <div

@@ -6,7 +6,16 @@ const title = computed(() => t('seo.caseStudies.wireAndBond.title'));
 const description = computed(() =>
   t('seo.caseStudies.wireAndBond.description'),
 );
-
+useHead({
+  title: title.value,
+  meta: [
+    {
+      name: 'description',
+      content: description.value,
+      tagPriority: 0
+    },
+  ],
+});
 definePageMeta({
   middleware: ['route'],
 });
@@ -50,10 +59,6 @@ const ids = ['wirebondApproach', 'wirebondResults', 'wirebondFeedback'];
 
 <template>
   <div>
-    <Head>
-      <Title>{{ title }}</Title>
-      <Meta name="description" :content="description" />
-    </Head>
     <CaseStudiesWireBondHeader />
     <main class="main">
       <div

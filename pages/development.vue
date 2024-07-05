@@ -14,12 +14,12 @@ const { t } = useI18n();
 const title = computed(() => t('seo.development.title'));
 const description = computed(() => t('seo.development.description'));
 useHead({
-  title,
+  title: title.value,
   meta: [
     {
-      hid: 'description',
       name: 'description',
       content: description.value,
+      tagPriority: 0
     },
   ],
 });

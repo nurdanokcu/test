@@ -29,10 +29,6 @@ const description = computed(() => t('seo.privacyPolicy.description'));
 
 <template>
   <div class="privacy">
-    <Head>
-      <Title>{{ title }}</Title>
-      <Meta name="description" :content="description" />
-    </Head>
     <div id="privacy-policy"></div>
     <div class="privacy-line-wrapper">
       <div class="privacy-line"></div>

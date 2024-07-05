@@ -12,6 +12,16 @@ import {
 const { t } = useI18n();
 const title = computed(() => t('seo.services.title'));
 const description = computed(() => t('seo.services.description'));
+useHead({
+  title: title.value,
+  meta: [
+    {
+      name: 'description',
+      content: description.value,
+      tagPriority: 0
+    },
+  ],
+});
 
 const defaultState = {
   digital: false,
@@ -61,10 +71,6 @@ const designData = computed(() => {
 
 <template>
   <div>
-    <Head>
-      <Title>{{ title }}</Title>
-      <Meta name="description" :content="description" />
-    </Head>
     <ServicesHeader />
     <main class="main">
       <div :id="$t('services.heading.scrollPathId')" class="main-hidden"></div>

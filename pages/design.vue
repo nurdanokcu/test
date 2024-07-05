@@ -12,6 +12,16 @@ const { designSubCategory, findSubcategory } = useServices();
 const { t } = useI18n();
 const title = computed(() => t('seo.design.title'));
 const description = computed(() => t('seo.design.description'));
+useHead({
+  title: title.value,
+  meta: [
+    {
+      name: 'description',
+      content: description.value,
+      tagPriority: 0
+    },
+  ],
+});
 definePageMeta({
   scrollToTop: false,
   middleware: ['design'],
@@ -72,13 +82,6 @@ designSubCategory.value = findSubcategory({
 
 <template>
   <div>
-    <Head>
-      <Title>{{ title }}</Title>
-      <Meta
-        name="description"
-        :content="description"
-      />
-    </Head>
     <DesignHeader />
     <main
       ref="main"

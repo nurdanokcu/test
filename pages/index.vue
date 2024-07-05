@@ -3,10 +3,7 @@ const { t } = useI18n();
 const title = computed(() => t('seo.home.title'));
 const description = computed(() => t('seo.home.description'));
 useHead({
-  title: {
-    inner: title.value,
-    tagPriority: 0
-  },
+  title: title.value,
   meta: [
     {
       name: 'description',

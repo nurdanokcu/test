@@ -13,6 +13,16 @@ const faqSections = computed(() => {
 const { t } = useI18n();
 const title = computed(() => t('seo.faq.title'));
 const description = computed(() => t('seo.faq.description'));
+useHead({
+  title: title.value,
+  meta: [
+    {
+      name: 'description',
+      content: description.value,
+      tagPriority: 0
+    },
+  ],
+});
 
 const searchQuery = ref('');
 const filteredSections = ref([...faqSections.value]);
@@ -64,10 +74,6 @@ watch(
 
 <template>
   <div>
-    <Head>
-      <Title>{{ title }}</Title>
-      <Meta name="description" :content="description" />
-    </Head>
     <FaqHeader />
     <main class="faq-main">
       <div class="faq-search">

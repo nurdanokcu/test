@@ -6,7 +6,16 @@ const title = computed(() => t('seo.caseStudies.fahrwerkMarketing.title'));
 const description = computed(() =>
   t('seo.caseStudies.fahrwerkMarketing.description'),
 );
-
+useHead({
+  title: title.value,
+  meta: [
+    {
+      name: 'description',
+      content: description.value,
+      tagPriority: 0
+    },
+  ],
+});
 definePageMeta({
   middleware: ['route'],
 });
@@ -54,10 +63,6 @@ const ids = [
 
 <template>
   <div>
-    <Head>
-      <Title>{{ title }}</Title>
-      <Meta name="description" :content="description" />
-    </Head>
     <CaseStudiesFahrwerkDigitalHeader />
     <main class="main">
       <div

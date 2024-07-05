@@ -21,6 +21,16 @@ const metaDescription = computed(() => {
     : t('seo.blog.description');
 });
 
+useHead({
+  title: metaTitle.value,
+  meta: [
+    {
+      name: 'description',
+      content: metaDescription.value,
+      tagPriority: 0
+    },
+  ],
+});
 const clickCategory = (id: number, name: string) => {
   const formattedCategoryName = name.toLowerCase().replace(' ', '_');
   const path = `${localePath('/blog')}/?category_id=${id}&category=${formattedCategoryName}`;
@@ -52,10 +62,6 @@ router.replace({ params: { url: post.value.slug } });
 
 <template>
   <div>
-    <Head>
-      <Title>{{ metaTitle }}</Title>
-      <Meta name="description" :content="metaDescription" />
-    </Head>
     <CommonGradientLine />
     <main id="blog-post" class="main">
       <div class="blog">
