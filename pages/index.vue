@@ -12,7 +12,7 @@ useServerSeoMeta({
   <div>
     <LazyHomeHeader />
     <main :id="$t('home.header.scrollPathId')">
-      <CommonGradientLine />
+      <LazyCommonGradientLine />
       <LazyHomeReview />
       <LazyHomeServices />
       <LazyHomeWhyUs />
