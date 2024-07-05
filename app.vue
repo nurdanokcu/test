@@ -32,15 +32,6 @@ const generateLangTags = (localeLinks) => {
 };
 
 useHead({
-  link: [
-    {
-      rel: 'icon',
-      type: 'image/png',
-      href: '/favicon.png',
-      tagPriority: 0
-    },
-    ...generateLangTags(head.value.link),
-  ],
   meta: [
     {
       name: 'viewport',
@@ -123,6 +114,15 @@ useHead({
       tagPriority: 0
     },
     ...generateOgTags(head.value.meta),
+  ],
+  link: [
+    {
+      rel: 'icon',
+      type: 'image/png',
+      href: '/favicon.png',
+      tagPriority: 0
+    },
+    ...generateLangTags(head.value.link),
   ],
 });
 </script>
