@@ -17,7 +17,6 @@ const generateOgTags = (localeMeta) => {
   }
   return result;
 }
-
 const generateLangTags = (localeLinks) => {
   const result = [];
   for (const link of localeLinks) {
@@ -30,6 +29,9 @@ const generateLangTags = (localeLinks) => {
   }
   return result;
 };
+
+const langTags = computed(() => generateLangTags(head.value.link));
+const ogTags = computed(() => generateOgTags(head.value.meta));
 
 useHead({
   meta: [
@@ -113,7 +115,7 @@ useHead({
       content: '#faf8f5',
       tagPriority: 0
     },
-    ...generateOgTags(head.value.meta),
+    ...ogTags.value,
   ],
   link: [
     {
@@ -122,9 +124,10 @@ useHead({
       href: '/favicon.png',
       tagPriority: 0
     },
-    ...generateLangTags(head.value.link),
+    ...langTags.value,
   ],
 });
+
 </script>
 
 <template>
