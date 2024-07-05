@@ -15,7 +15,9 @@ const generateOgTags = (localeMeta) => {
       tagPriority: 0
     });
   }
+  return result;
 }
+
 const generateLangTags = (localeLinks) => {
   const result = [];
   for (const link of localeLinks) {
@@ -26,7 +28,9 @@ const generateLangTags = (localeLinks) => {
       tagPriority: 0
     });
   }
+  return result;
 };
+
 useHead({
   link: [
     {
@@ -117,7 +121,8 @@ useHead({
       content: '#faf8f5',
       tagPriority: 0
     },
-    ...generateOgTags(head.meta),
+    ...generateOgTags(head.value.meta),
+    ...generateLangTags(head.value.links),
   ],
 });
 </script>
@@ -127,29 +132,6 @@ useHead({
     :lang="head.htmlAttrs.lang"
     :dir="head.htmlAttrs.dir"
   >
-    <Head>
-      <template
-        v-for="link in head.link"
-        :key="link.id"
-      >
-        <Link
-          :id="link.id"
-          :rel="link.rel"
-          :href="link.href"
-          :hreflang="link.hreflang"
-        />
-      </template>
-      <template
-        v-for="meta in head.meta"
-        :key="meta.id"
-      >
-        <Meta
-          :id="meta.id"
-          :property="meta.property"
-          :content="meta.content"
-        />
-      </template>
-    </Head>
     <div>
       <NuxtLayout>
         <NuxtPage />
