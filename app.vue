@@ -3,6 +3,7 @@ const head = useLocaleHead({
   addDirAttribute: true,
   addSeoAttributes: true,
 });
+const { t } = useI18n();
 useHead({
   link: [
     {
@@ -30,7 +31,6 @@ useHead({
     }
   ],
 });
-const { t } = useI18n();
 const config = useRuntimeConfig();
 useSeoMeta({
   ogDescription: t('seo.home.description'),
