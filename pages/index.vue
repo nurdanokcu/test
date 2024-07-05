@@ -8,6 +8,7 @@ useHead({
     {
       name: 'description',
       content: description,
+      tagPriority: 0
     },
   ],
 });
