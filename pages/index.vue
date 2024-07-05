@@ -4,13 +4,13 @@ const title = computed(() => t('seo.home.title'));
 const description = computed(() => t('seo.home.description'));
 useHead({
   title: {
-    content: title,
+    content: title.value,
     tagPriority: -1
   },
   meta: [
     {
       name: 'description',
-      content: description,
+      content: description.value,
       tagPriority: -1
     },
   ],
