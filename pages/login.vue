@@ -5,8 +5,32 @@ definePageMeta({
   layout: false,
   middleware: ['login'],
 });
+const head = useLocaleHead({
+  addDirAttribute: true,
+  addSeoAttributes: true,
+});
 useHead({
   title: 'Login - Propaganda Solutions',
+  meta: [
+    {
+      property: 'og:title',
+      content: 'Login - Propaganda Solutions',
+      tagPriority: 0,
+    },
+    {
+      name: 'twitterTitle',
+      content: 'Login - Propaganda Solutions',
+      tagPriority: 0,
+    },
+    ...head.value.meta.map((meta: any) => ({
+      ...meta,
+      tagPriority: 0,
+    })),
+  ],
+  link: head.value.link.map((link: any) => ({
+    ...link,
+    tagPriority: 0,
+  })),
 });
 const localePath = useLocalePath();
 </script>

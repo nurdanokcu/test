@@ -17,7 +17,7 @@ const getBlogContent = async () => {
 
   if (error.value) {
     isLoading.value = false;
-    errorMessage.value = error.value.data.message;
+    errorMessage.value = error.value.data?.message || error.value.message;
     return;
   }
   if (data.value) {

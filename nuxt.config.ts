@@ -12,11 +12,69 @@ export default defineNuxtConfig({
         lang: 'en',
       },
       title: 'Digital Marketing Agency - Propaganda Solutions -  United Kingdom England',
+      link:[
+        {
+          rel: 'icon',
+          type: 'image/png',
+          href: '/favicon.png',
+          tagPriority: 0
+        }
+      ],
       meta: [
         {
           name: 'google-site-verification',
           content: 'blfcUyz_o9hX53rn-i3ynInjB10DGv3-7HF78GVbLKs',
-        }
+        },
+        {
+          name: 'viewport',
+          content: 'width=device-width, initial-scale=1',
+          tagPriority: 0,
+        },
+        {
+          name: 'charset',
+          content: 'utf-8',
+          tagPriority: 0,
+        },
+        {
+          name: 'color-scheme',
+          content: 'light',
+          tagPriority: 0,
+        },
+        {
+          name: 'theme-color',
+          content: '#faf8f5',
+          tagPriority: 0,
+        },
+        {
+          property: 'og:image',
+          content: '/logo.png',
+          tagPriority: 0,
+        },
+        {
+          property: 'og:og:image:type',
+          content: 'image/png',
+          tagPriority: 0,
+        },
+        {
+          property: 'og:type',
+          content: 'website',
+          tagPriority: 0,
+        },
+        {
+          name: 'twitter:image',
+          content: '/logo.png',
+          tagPriority: 0,
+        },
+        {
+          name: 'twitter:card',
+          content: 'summary',
+          tagPriority: 0,
+        },
+        {
+          name: 'ogType',
+          content: 'website',
+          tagPriority: 0,
+        },
       ],
     },
   },

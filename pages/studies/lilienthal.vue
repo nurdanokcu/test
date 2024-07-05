@@ -8,15 +8,47 @@ const description = computed(() => t('seo.caseStudies.lilienthal.description'));
 definePageMeta({
   middleware: ['route'],
 });
+const head = useLocaleHead({
+  addDirAttribute: true,
+  addSeoAttributes: true,
+});
 useHead({
   title: title.value,
   meta: [
     {
       name: 'description',
       content: description.value,
-      tagPriority: 0
+      tagPriority: 0,
     },
+    {
+      property: 'og:title',
+      content: title.value,
+      tagPriority: 0,
+    },
+    {
+      property: 'og:description',
+      content: description.value,
+      tagPriority: 0,
+    },
+    {
+      name: 'twitterTitle',
+      content: title.value,
+      tagPriority: 0,
+    },
+    {
+      name: 'twitterDescription',
+      content: description.value,
+      tagPriority: 0,
+    },
+    ...head.value.meta.map(meta => ({
+      ...meta,
+      tagPriority: 0,
+    })),
   ],
+  link: head.value.link.map(link => ({
+    ...link,
+    tagPriority: 0,
+  })),
 });
 
 const defaultState = {

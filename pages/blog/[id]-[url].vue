@@ -21,15 +21,47 @@ const metaDescription = computed(() => {
     : t('seo.blog.description');
 });
 
+const head = useLocaleHead({
+  addDirAttribute: true,
+  addSeoAttributes: true,
+});
 useHead({
   title: metaTitle.value,
   meta: [
     {
       name: 'description',
       content: metaDescription.value,
-      tagPriority: 0
+      tagPriority: 0,
     },
+    {
+      property: 'og:title',
+      content: metaTitle.value,
+      tagPriority: 0,
+    },
+    {
+      property: 'og:description',
+      content: metaDescription.value,
+      tagPriority: 0,
+    },
+    {
+      name: 'twitterTitle',
+      content: metaTitle.value,
+      tagPriority: 0,
+    },
+    {
+      name: 'twitterDescription',
+      content: metaDescription.value,
+      tagPriority: 0,
+    },
+    ...head.value.meta.map((meta: any) => ({
+      ...meta,
+      tagPriority: 0,
+    })),
   ],
+  link: head.value.link.map((link: any) => ({
+    ...link,
+    tagPriority: 0,
+  })),
 });
 const clickCategory = (id: number, name: string) => {
   const formattedCategoryName = name.toLowerCase().replace(' ', '_');
