@@ -1,15 +1,15 @@
-<script setup>
+<script setup lang="ts">
 const { t } = useI18n();
 const title = computed(() => t('seo.home.title'));
 const description = computed(() => t('seo.home.description'));
+useServerSeoMeta({
+  title: title.value,
+  description: description.value,
+});
 </script>
 
 <template>
   <div>
-    <Head>
-      <Title>{{ title }}</Title>
-      <Meta name="description" :content="description" />
-    </Head>
     <LazyHomeHeader />
     <main :id="$t('home.header.scrollPathId')">
       <CommonGradientLine />
