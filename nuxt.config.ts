@@ -12,11 +12,17 @@ export default defineNuxtConfig({
         lang: 'en',
       },
       title: 'Propaganda Solutions',
+
       meta: [
         {
           name: 'google-site-verification',
           content: 'blfcUyz_o9hX53rn-i3ynInjB10DGv3-7HF78GVbLKs',
         },
+        {
+          name: 'description',
+          content:
+            'Digital Marketing Agency in the United Kingdom, we specialize in innovative site design and development. Our expert team excels in SEO optimization, elevating your online presence. Trust us for effective site promotion and advertisement Google, Facebook & Instagram ads',
+        }
       ],
     },
   },
