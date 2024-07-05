@@ -1,10 +1,15 @@
-<script setup lang="ts">
+<script setup>
 const { t } = useI18n();
 const title = computed(() => t('seo.home.title'));
 const description = computed(() => t('seo.home.description'));
-useServerSeoMeta({
-  title: title.value,
-  description: description.value,
+useHead({
+  title,
+  meta: [
+    {
+      name: 'description',
+      content: description,
+    },
+  ],
 });
 </script>
 
@@ -12,7 +17,7 @@ useServerSeoMeta({
   <div>
     <LazyHomeHeader />
     <main :id="$t('home.header.scrollPathId')">
-      <LazyCommonGradientLine />
+      <CommonGradientLine />
       <LazyHomeReview />
       <LazyHomeServices />
       <LazyHomeWhyUs />

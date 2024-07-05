@@ -14,7 +14,7 @@ useHead({
 });
 const { t } = useI18n();
 const config = useRuntimeConfig();
-useServerSeoMeta({
+useSeoMeta({
   ogTitle: t('seo.home.title'),
   ogDescription: t('seo.home.description'),
   ogImage: '/logo.png',
