@@ -39,6 +39,7 @@ useHead({
       href: '/favicon.png',
       tagPriority: 0
     },
+    ...generateLangTags(head.value.link),
   ],
   meta: [
     {
@@ -122,7 +123,6 @@ useHead({
       tagPriority: 0
     },
     ...generateOgTags(head.value.meta),
-    ...generateLangTags(head.value.link),
   ],
 });
 </script>
